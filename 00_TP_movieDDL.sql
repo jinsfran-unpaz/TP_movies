@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS movies;
-CREATE DATABASE movies CHARACTER SET latin1 COLLATE latin1_spanish_ci;
+CREATE DATABASE movies;
 
 USE movies;
 
@@ -33,7 +33,7 @@ DROP TABLE IF EXISTS idioma;
 CREATE TABLE idioma (
   idioma_id INT NOT NULL,
   idioma_codigo varchar(10) NULL,
-  idioma_nombre varchar(500) CHARACTER SET utf8 NULL,
+  idioma_nombre nvarchar(500) NULL,
   CONSTRAINT PK_idioma PRIMARY KEY (idioma_id)
 );
 
@@ -65,7 +65,7 @@ DROP TABLE IF EXISTS persona;
 
 CREATE TABLE persona (
   persona_id INT NOT NULL,
-  persona_nombre varchar(500) CHARACTER SET utf8 NULL,
+  persona_nombre nvarchar(500) NULL,
   CONSTRAINT PK_persona PRIMARY KEY (persona_id)
 );
 
@@ -73,7 +73,7 @@ DROP TABLE IF EXISTS productora;
 
 CREATE TABLE productora (
   productora_id INT NOT NULL,
-  productora_nombre varchar(200) CHARACTER SET utf8 NULL,
+  productora_nombre nvarchar(200) NULL,
   CONSTRAINT PK_productora PRIMARY KEY (productora_id)
 );
 
@@ -81,16 +81,16 @@ DROP TABLE IF EXISTS pelicula;
 
 CREATE TABLE pelicula (
   pelicula_id INT NOT NULL,
-  titulo varchar(1000) CHARACTER SET utf8 NULL,
+  titulo nvarchar(1000) NULL,
   presupuesto BIGINT NULL,
   sitio_web varchar(1000) NULL,
-  resumen varchar(1000) CHARACTER SET utf8 NULL,
+  resumen nvarchar(1000) NULL,
   popularidad DECIMAL(12,6) NULL,
   fecha_estreno DATE NULL,
   ingresos BIGINT NULL,
   duracion INT NULL,
   estado varchar(50) NULL,
-  lema varchar(1000) CHARACTER SET utf8 NULL,
+  lema nvarchar(1000) NULL,
   promedio_votos DECIMAL(4,2) NULL,
   cantidad_votos INT NULL,
   CONSTRAINT PK_pelicula PRIMARY KEY (pelicula_id)
@@ -101,7 +101,7 @@ DROP TABLE IF EXISTS pelicula_elenco;
 CREATE TABLE pelicula_elenco (
   pelicula_id INT,
   persona_id INT,
-  personaje_nombre varchar(400) CHARACTER SET utf8 NULL,
+  personaje_nombre nvarchar(400) NULL,
   genero_id INT,
   elenco_orden INT,
   CONSTRAINT PK_pelicula_elenco PRIMARY KEY (pelicula_id, persona_id, genero_id, elenco_orden),
