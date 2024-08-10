@@ -11742,4 +11742,4 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (385636,24660,1),
 (46146,24701,1);
 
-COMMIT;
+GO

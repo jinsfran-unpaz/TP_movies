@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS movies;
 CREATE DATABASE movies;
-
+GO
 USE movies;
 
 DROP TABLE IF EXISTS pais;

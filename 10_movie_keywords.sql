@@ -36164,4 +36164,4 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (459488,235690),
 (459488,235691);
 
-COMMIT
+GO

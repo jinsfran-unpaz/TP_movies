@@ -13679,4 +13679,4 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (447027,41671),
 (459488,60343);
 
-COMMIT;
+GO

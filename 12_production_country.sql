@@ -6438,4 +6438,4 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (447027,214),
 (459488,162);
 
-COMMIT;
+GO

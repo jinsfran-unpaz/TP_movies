@@ -12162,4 +12162,4 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (447027,10751),
 (459488,99);
 
-COMMIT;
+GO
