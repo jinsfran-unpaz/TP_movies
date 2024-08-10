@@ -1,19 +1,6 @@
-DROP TABLE IF EXISTS movies.movie_cast;
+USE movies;
 
-CREATE TABLE movies.movie_cast (
-  movie_id INT DEFAULT NULL,
-  person_id INT DEFAULT NULL,
-  character_name varchar(400) DEFAULT NULL,
-  gender_id INT DEFAULT NULL,
-  cast_order int(5) DEFAULT NULL,
-  CONSTRAINT fk_mca_gender FOREIGN KEY (gender_id) REFERENCES movies.gender (gender_id),
-  CONSTRAINT fk_mca_movie FOREIGN KEY (movie_id) REFERENCES movies.movie (movie_id),
-  CONSTRAINT fk_mca_per FOREIGN KEY (person_id) REFERENCES movies.person (person_id)
-);
-
-
-
-INSERT INTO movies.movie_cast (movie_id, person_id, character_name, gender_id, cast_order) VALUES
+INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (285,85,'Captain Jack Sparrow',2,0),
 (285,114,'Will Turner',2,1),
 (285,116,'Elizabeth Swann',1,2),

@@ -1,18 +1,6 @@
-DROP DATABASE IF EXISTS movies;
-CREATE DATABASE movies;
+USE movies;
 
-
-DROP TABLE IF EXISTS movies.country;
-
-CREATE TABLE movies.country (
-  country_id INT NOT NULL AUTO_INCREMENT,
-  country_iso_code VARCHAR(10) DEFAULT NULL,
-  country_name VARCHAR(200) DEFAULT NULL,
-  CONSTRAINT pk_country PRIMARY KEY (country_id)
-);
-
-
-INSERT INTO movies.country (country_id, country_iso_code, country_name) VALUES
+INSERT INTO pais (pais_id, pais_codigo_iso, pais_nombre) VALUES
 (128,'AE','United Arab Emirates'),
 (129,'AF','Afghanistan'),
 (130,'AO','Angola'),
@@ -102,33 +90,12 @@ INSERT INTO movies.country (country_id, country_iso_code, country_name) VALUES
 (214,'US','United States of America'),
 (215,'ZA','South Africa');
 
-
-
-DROP TABLE IF EXISTS movies.gender;
-
-CREATE TABLE movies.gender (
-  gender_id INT NOT NULL,
-  gender VARCHAR(20) DEFAULT NULL,
-  CONSTRAINT pk_gender PRIMARY KEY (gender_id)
-);
-
-
-INSERT INTO movies.gender (gender_id, gender) VALUES
+INSERT INTO genero (genero_id, genero) VALUES
 (0,'Unspecified'),
 (1,'Female'),
 (2,'Male');
 
-
-
-DROP TABLE IF EXISTS movies.genre;
-
-CREATE TABLE movies.genre (
-  genre_id INT NOT NULL,
-  genre_name VARCHAR(100) DEFAULT NULL,
-  CONSTRAINT pk_genre PRIMARY KEY (genre_id)
-);
-
-INSERT INTO movies.genre (genre_id, genre_name) VALUES
+INSERT INTO categoria (categoria_id, categoria_nombre) VALUES
 (12,'Adventure'),
 (14,'Fantasy'),
 (16,'Animation'),
@@ -150,18 +117,7 @@ INSERT INTO movies.genre (genre_id, genre_name) VALUES
 (10769,'Foreign'),
 (10770,'TV Movie');
 
-
-DROP TABLE IF EXISTS movies.language;
-
-CREATE TABLE movies.language (
-  language_id INT NOT NULL AUTO_INCREMENT,
-  language_code VARCHAR(10) DEFAULT NULL,
-  language_name VARCHAR(500) DEFAULT NULL,
-  CONSTRAINT pk_language PRIMARY KEY (language_id)
-);
-
-
-INSERT INTO movies.language (language_id, language_code, language_name) VALUES
+INSERT INTO idioma (idioma_id, idioma_codigo, idioma_nombre) VALUES
 (24574, 'en', 'English'),
 (24575, 'sv', 'Svenska'),
 (24576, 'de', 'Deutsch'),
@@ -251,33 +207,11 @@ INSERT INTO movies.language (language_id, language_code, language_name) VALUES
 (24660, 'sl', 'Slovenščina'),
 (24701, 'nb', 'Norsk Bokmål');
 
-
-
-DROP TABLE IF EXISTS movies.language_role;
-
-CREATE TABLE movies.language_role (
-  role_id INT NOT NULL,
-  language_role VARCHAR(20) DEFAULT NULL,
-  CONSTRAINT pk_langrole PRIMARY KEY (role_id)
-);
-
-INSERT INTO movies.language_role (role_id, language_role) VALUES
+INSERT INTO idioma_rol (rol_id, idioma_rol) VALUES
 (1,'Original'),
 (2,'Spoken');
 
-
-
-DROP TABLE IF EXISTS movies.department;
-
-CREATE TABLE movies.department (
-  department_id INT NOT NULL AUTO_INCREMENT,
-  department_name VARCHAR(200) DEFAULT NULL,
-  CONSTRAINT pk_department PRIMARY KEY (department_id)
-);
-
-
-
-INSERT INTO movies.department (department_id, department_name) VALUES
+INSERT INTO especialidad (especialidad_id, especialidad_nombre) VALUES
 (1,'Camera'),
 (2,'Directing'),
 (3,'Production'),

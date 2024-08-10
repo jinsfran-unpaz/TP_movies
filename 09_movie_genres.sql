@@ -1,15 +1,6 @@
-DROP TABLE IF EXISTS movies.movie_genres;
+USE movies;
 
-CREATE TABLE movies.movie_genres (
-  movie_id INT DEFAULT NULL,
-  genre_id INT DEFAULT NULL,
-  CONSTRAINT fk_mg_genre FOREIGN KEY (genre_id) REFERENCES movies.genre (genre_id),
-  CONSTRAINT fk_mg_movie FOREIGN KEY (movie_id) REFERENCES movies.movie (movie_id)
-);
-
-
-
-INSERT INTO movies.movie_genres (movie_id, genre_id) VALUES
+INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (5,35),
 (5,80),
 (11,12),

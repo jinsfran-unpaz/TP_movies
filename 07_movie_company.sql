@@ -1,14 +1,6 @@
-DROP TABLE IF EXISTS movies.movie_company;
+USE movies;
 
-CREATE TABLE movies.movie_company (
-  movie_id INT DEFAULT NULL,
-  company_id INT DEFAULT NULL,
-  CONSTRAINT fk_mc_comp FOREIGN KEY (company_id) REFERENCES movies.production_company (company_id),
-  CONSTRAINT fk_mc_movie FOREIGN KEY (movie_id) REFERENCES movies.movie (movie_id)
-);
-
-
-INSERT INTO movies.movie_company (movie_id, company_id) VALUES
+INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (5,14),
 (5,59),
 (11,1),

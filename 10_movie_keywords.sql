@@ -1,14 +1,6 @@
-DROP TABLE IF EXISTS movies.movie_keywords;
+USE movies;
 
-CREATE TABLE movies.movie_keywords (
-  movie_id INT DEFAULT NULL,
-  keyword_id INT DEFAULT NULL,
-  CONSTRAINT fk_mk_keyword FOREIGN KEY (keyword_id) REFERENCES movies.keyword (keyword_id),
-  CONSTRAINT fk_mk_movie FOREIGN KEY (movie_id) REFERENCES movies.movie (movie_id)
-);
-
-
-INSERT INTO movies.movie_keywords (movie_id, keyword_id) VALUES
+INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (5,612),
 (5,613),
 (5,616),

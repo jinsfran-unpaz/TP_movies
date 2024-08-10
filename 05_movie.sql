@@ -1,25 +1,6 @@
-DROP TABLE IF EXISTS movies.movie;
+USE movies;
 
-CREATE TABLE movies.movie (
-  movie_id INT NOT NULL AUTO_INCREMENT,
-  title VARCHAR(1000) DEFAULT NULL,
-  budget INT DEFAULT NULL,
-  homepage VARCHAR(1000) DEFAULT NULL,
-  overview VARCHAR(1000) DEFAULT NULL,
-  popularity DECIMAL(12,6) DEFAULT NULL,
-  release_date DATE DEFAULT NULL,
-  revenue BIGINT(20) DEFAULT NULL,
-  runtime INT DEFAULT NULL,
-  movie_status VARCHAR(50) DEFAULT NULL,
-  tagline VARCHAR(1000) DEFAULT NULL,
-  vote_average DECIMAL(4,2) DEFAULT NULL,
-  vote_count INT DEFAULT NULL,
-  CONSTRAINT pk_movie PRIMARY KEY (movie_id)
-);
-
-
-INSERT INTO movies.movie (movie_id, title, budget, homepage, overview, popularity, release_date, revenue, runtime, movie_status, tagline, vote_average, vote_count)
-VALUES
+INSERT INTO pelicula (pelicula_id, titulo, presupuesto, sitio_web, resumen, popularidad, fecha_estreno, ingresos, duracion, estado, lema, promedio_votos, cantidad_votos) VALUES
 (5,'Four Rooms',4000000,'','It\'s Ted the Bellhop\'s first night on the job...and the hotel\'s very unusual guests are about to place him in some outrageous predicaments. It seems that this evening\'s room service is serving up one unbelievable happening after another.',22.876230,'1995-12-09',4300000,98,'Released','Twelve outrageous guests. Four scandalous requests. And one lone bellhop, in his first day on the job, who\'s in for the wildest New year\'s Eve of his life.',6.50,530),
 (11,'Star Wars',11000000,'http://www.starwars.com/films/star-wars-episode-iv-a-new-hope','Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.',126.393695,'1977-05-25',775398007,121,'Released','A long time ago in a galaxy far, far away...',8.10,6624),
 (12,'Finding Nemo',94000000,'http://movies.disney.com/finding-nemo','Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist\'s office aquarium. It\'s up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.',85.688789,'2003-05-30',940335536,100,'Released','There are 3.7 trillion fish in the ocean, they\'re looking for one.',7.60,6122),

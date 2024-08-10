@@ -1,14 +1,6 @@
-DROP TABLE IF EXISTS movies.person;
+USE movies;
 
-CREATE TABLE movies.person (
-  person_id INT NOT NULL,
-  person_name varchar(500) DEFAULT NULL,
-  CONSTRAINT pk_person PRIMARY KEY (person_id)
-);
-
-
-
-INSERT INTO movies.person (person_id, person_name) VALUES
+INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1,'George Lucas'),
 (2,'Mark Hamill'),
 (3,'Harrison Ford'),
