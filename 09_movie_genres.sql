@@ -1000,7 +1000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (812,14),
 (812,16),
 (812,35),
-(812,10749),
+(812,10749);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (812,10751),
 (813,35),
 (816,35),
@@ -2000,7 +2000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (2575,53),
 (2577,18),
 (2577,53),
-(2577,878),
+(2577,878);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (2577,10749),
 (2604,18),
 (2604,10752),
@@ -3000,7 +3000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (8427,35),
 (8427,53),
 (8435,18),
-(8435,35),
+(8435,35);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (8452,878),
 (8456,18),
 (8456,28),
@@ -4000,7 +4000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (9800,18),
 (9801,35),
 (9801,10749),
-(9802,12),
+(9802,12);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (9802,28),
 (9802,53),
 (9804,12),
@@ -5000,7 +5000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (10947,35),
 (10947,10402),
 (10947,10751),
-(10947,10770),
+(10947,10770);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (10950,18),
 (10955,53),
 (10955,80),
@@ -6000,7 +6000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (13191,12),
 (13191,28),
 (13191,35),
-(13191,53),
+(13191,53);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (13193,18),
 (13193,35),
 (13197,18),
@@ -7000,7 +7000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (18079,53),
 (18079,80),
 (18126,18),
-(18126,35),
+(18126,35);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (18126,10402),
 (18126,10749),
 (18126,10751),
@@ -8000,7 +8000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (28666,18),
 (28902,18),
 (28902,53),
-(28932,18),
+(28932,18);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (28932,28),
 (29015,28),
 (29015,35),
@@ -9000,7 +9000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (46503,9648),
 (46503,10749),
 (46528,12),
-(46528,14),
+(46528,14);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (46528,28),
 (46528,37),
 (46528,53),
@@ -10000,7 +10000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (77156,27),
 (77156,28),
 (77156,53),
-(77156,878),
+(77156,878);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (77174,12),
 (77174,16),
 (77174,35),
@@ -11000,7 +11000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (188166,53),
 (188166,80),
 (188207,12),
-(188207,28),
+(188207,28);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (188652,14),
 (188652,35),
 (188652,10402),
@@ -12000,7 +12000,7 @@ INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (334531,18),
 (335244,99),
 (335778,28),
-(335866,27),
+(335866,27);INSERT INTO pelicula_categorias (pelicula_id, categoria_id) VALUES
 (335866,878),
 (336004,28),
 (336004,53),

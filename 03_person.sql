@@ -1000,7 +1000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1345,N'Chang Xiao Yang'),
 (1348,N'Philip Lee'),
 (1349,N'Shoufang Dou'),
-(1350,N'Irène Jacob'),
+(1350,N'Irène Jacob');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1351,N'William Kong'),
 (1352,N'Jean-Louis Trintignant'),
 (1353,N'Zhang Weiping'),
@@ -2000,7 +2000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (2866,N'Lee Percy'),
 (2867,N'Michael Shaw'),
 (2868,N'S.E. Hinton'),
-(2869,N'Kathleen Rowell'),
+(2869,N'Kathleen Rowell');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (2870,N'Gray Frederickson'),
 (2871,N'Fred Roos'),
 (2872,N'Carmine Coppola'),
@@ -3000,7 +3000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (4471,N'Erna Boas'),
 (4474,N'Lars Bo Jensen'),
 (4475,N'Valdís Óskarsdóttir'),
-(4476,N'Marie Louise Hedegaard'),
+(4476,N'Marie Louise Hedegaard');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (4477,N'Lene Seested'),
 (4478,N'Eigil Jacobsen'),
 (4479,N'Morten Holm'),
@@ -4000,7 +4000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (6064,N'Marcello Bezina'),
 (6065,N'Dennis Quaid'),
 (6066,N'Dash Mihok'),
-(6067,N'Jay O. Sanders'),
+(6067,N'Jay O. Sanders');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (6068,N'Sela Ward'),
 (6069,N'Austin Nichols'),
 (6070,N'Arjay Smith'),
@@ -5000,7 +5000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (7520,N'Jeanette Nolan'),
 (7521,N'Steve Frye'),
 (7522,N'Don Edwards'),
-(7523,N'Jessalyn Gilsig'),
+(7523,N'Jessalyn Gilsig');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (7525,N'William ''Buddy'' Byrd'),
 (7526,N'John Hogarty'),
 (7527,N'Michel Lalonde'),
@@ -6000,7 +6000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (8917,N'Adam Kempton'),
 (8918,N'Iñaki Núñez'),
 (8919,N'Alain Vannier'),
-(8920,N'Suzanne Wiesenfeld'),
+(8920,N'Suzanne Wiesenfeld');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (8921,N'Philippe Turlure'),
 (8922,N'Anthony Powell'),
 (8923,N'Laura Stuart'),
@@ -7000,7 +7000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (10632,N'M. James Arnett'),
 (10633,N'Seth Arnett'),
 (10634,N'Karen Blixen'),
-(10635,N'Judith Thurman'),
+(10635,N'Judith Thurman');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (10636,N'Errol Trzebinski'),
 (10637,N'Kurt Luedtke'),
 (10639,N'David Watkin'),
@@ -8000,7 +8000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (12246,N'John Cox'),
 (12247,N'John W. Mitchell'),
 (12248,N'Alec Guinness'),
-(12249,N'Sessue Hayakawa'),
+(12249,N'Sessue Hayakawa');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (12250,N'James Donald'),
 (12251,N'Geoffrey Horne'),
 (12252,N'Peter Williams'),
@@ -9000,7 +9000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (14461,N'Roy Alon'),
 (14464,N'Jenny Agutter'),
 (14465,N'John Woodvine'),
-(14468,N'Brian Glover'),
+(14468,N'Brian Glover');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (14469,N'Rik Mayall'),
 (14470,N'Sean Baker'),
 (14474,N'Gaston Leroux'),
@@ -10000,7 +10000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (16493,N'Michael Atwell'),
 (16494,N'Jesse Rosenthal'),
 (16495,N'Gretchen Patch'),
-(16496,N'Diane Heller'),
+(16496,N'Diane Heller');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (16497,N'Lisa Jaime'),
 (16498,N'John Hartigan'),
 (16499,N'Henrik Fett'),
@@ -11000,7 +11000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (18323,N'Marc Lawrence'),
 (18324,N'Steve Zahn'),
 (18325,N'Jeremy Northam'),
-(18326,N'Dennis Miller'),
+(18326,N'Dennis Miller');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (18327,N'Wendy Gazelle'),
 (18328,N'Ken Howard'),
 (18330,N'Rob Cowan'),
@@ -12000,7 +12000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (20483,N'John Pearson-Denning'),
 (20487,N'Neil Kopp'),
 (20488,N'Nathanaël Karmitz'),
-(20489,N'Steve Joyner'),
+(20489,N'Steve Joyner');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (20490,N'Nina Proctor'),
 (20491,N'Vanessa Ferlito'),
 (20492,N'Jordan Ladd'),
@@ -13000,7 +13000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (23424,N'Lucy Bevan'),
 (23425,N'Chris Lowe'),
 (23426,N'Nicola Buck'),
-(23427,N'Angela Levin'),
+(23427,N'Angela Levin');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (23429,N'Adam Godley'),
 (23430,N'Timur Bekmambetov'),
 (23431,N'Sergey Lukyanenko'),
@@ -14000,7 +14000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (27181,N'Carlo Siliotto'),
 (27187,N'Grazia De Rossi'),
 (27198,N'Orso Maria Guerrini'),
-(27199,N'Francesco Carnelutti'),
+(27199,N'Francesco Carnelutti');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (27204,N'Robert McKee'),
 (27205,N'Luigi Rocchetti'),
 (27208,N'Omero Antonutti'),
@@ -15000,7 +15000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (30864,N'Hamilton Mitchell'),
 (30865,N'Lou Cutell'),
 (30870,N'Dave Payne'),
-(30871,N'Ryeland Allison'),
+(30871,N'Ryeland Allison');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (30872,N'Roger Neill'),
 (30874,N'Donald Paul Pemrick'),
 (30876,N'Dean E. Fronk'),
@@ -16000,7 +16000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (34951,N'Keith Partridge'),
 (34954,N'Nitin Sawhney'),
 (34967,N'Rick Benattar'),
-(34968,N'Douglas Curtis'),
+(34968,N'Douglas Curtis');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (34970,N'Susan Montford'),
 (34979,N'Loren Lester'),
 (34982,N'Jeff Bennett'),
@@ -17000,7 +17000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (39664,N'Nathalie Lunghi'),
 (39667,N'J.J. Connolly'),
 (39668,N'Steve Carter'),
-(39669,N'Joanna Barrs'),
+(39669,N'Joanna Barrs');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (39670,N'Stephanie Collie'),
 (39678,N'Rab Affleck'),
 (39679,N'Steve John Shepherd'),
@@ -18000,7 +18000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (43292,N'Steve Byers'),
 (43297,N'Elizabeth Thai'),
 (43299,N'John DeSantis'),
-(43311,N'Yannick Bisson'),
+(43311,N'Yannick Bisson');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (43323,N'José Luis García Pérez'),
 (43332,N'Carles Cases'),
 (43364,N'Dakin Matthews'),
@@ -19000,7 +19000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (49833,N'Mo Gaffney'),
 (49834,N'Bette Henritze'),
 (49835,N'Tom Aldredge'),
-(49863,N'Jean-François Gallotte'),
+(49863,N'Jean-François Gallotte');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (49872,N'Fabienne Octobre'),
 (49874,N'Catherine Bruchon'),
 (49886,N'Freddy Waff'),
@@ -20000,7 +20000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (53359,N'Joseph Infantolino'),
 (53360,N'Alexa L. Fogel'),
 (53361,N'Michael Parker'),
-(53362,N'Harish Patel'),
+(53362,N'Harish Patel');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (53364,N'India de Beaufort'),
 (53365,N'Matthew Fenton'),
 (53366,N'Simon Day'),
@@ -21000,7 +21000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (56088,N'Janis Karpinski'),
 (56089,N'Roman Krol'),
 (56090,N'Brent Pack'),
-(56091,N'Jeremy Sivits'),
+(56091,N'Jeremy Sivits');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (56093,N'George McIndoe'),
 (56094,N'David Alper'),
 (56095,N'Gary Hamilton'),
@@ -22000,7 +22000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (58114,N'Ali Hillis'),
 (58115,N'Eric Dane'),
 (58119,N'Austin O''Brien'),
-(58120,N'Sylvester Levay'),
+(58120,N'Sylvester Levay');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (58121,N'Alicia Stevenson'),
 (58122,N'Paul Aylett'),
 (58123,N'Bolo Yeung'),
@@ -23000,7 +23000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (59982,N'Emmanuel Kadosh'),
 (59983,N'Simon Cozens'),
 (59984,N'Marco Pontecorvo'),
-(59986,N'David Griffiths'),
+(59986,N'David Griffiths');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (59987,N'Peter Griffiths'),
 (60004,N'Kestie Morassi'),
 (60005,N'Nathan Phillips'),
@@ -24000,7 +24000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (62062,N'Hinju Kim'),
 (62063,N'Chuck Potter'),
 (62064,N'Chris Pine'),
-(62065,N'Bree Turner'),
+(62065,N'Bree Turner');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (62066,N'Faizon Love'),
 (62067,N'Carlos Ponce'),
 (62068,N'Tom Fletcher'),
@@ -25000,7 +25000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (64722,N'John Carl Buechler'),
 (64723,N'Iain Paterson'),
 (64724,N'Barbara Sachs'),
-(64725,N'Manuel Fidello'),
+(64725,N'Manuel Fidello');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (64726,N'Daryl Haney'),
 (64727,N'Maureen O''Connell'),
 (64728,N'Martin Jay Sadoff'),
@@ -26000,7 +26000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (67428,N'Seton I. Miller'),
 (67433,N'Ross A. Maehl'),
 (67447,N'Anthony Veiller'),
-(67450,N'Alistair MacLean'),
+(67450,N'Alistair MacLean');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (67453,N'Danso Gordon'),
 (67454,N'Bo Ehrhardt'),
 (67465,N'Alex Marshall'),
@@ -27000,7 +27000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (71486,N'Michael Lucker'),
 (71487,N'Chris Parker'),
 (71491,N'Patrick Descamps'),
-(71497,N'Barnet Bain'),
+(71497,N'Barnet Bain');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (71498,N'Stephen Deutsch'),
 (71499,N'Jon Slan'),
 (71506,N'Rémi Bezançon'),
@@ -28000,7 +28000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (75244,N'George Berrios'),
 (75245,N'Catharine Bushnell'),
 (75246,N'John M. Gilgar'),
-(75247,N'Donald Sweeney'),
+(75247,N'Donald Sweeney');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (75248,N'Tom Weston'),
 (75249,N'Deahdra Scarano'),
 (75250,N'G. Tony Scarano'),
@@ -29000,7 +29000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (78794,N'Wally Cassell'),
 (78798,N'Tom Kenny'),
 (78799,N'Carolyn Lawrence'),
-(78804,N'Jocelin Donahue'),
+(78804,N'Jocelin Donahue');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (78809,N'Rashad Evans'),
 (78811,N'Quinton Jackson'),
 (78815,N'Antonio Rodrigo Nogueira'),
@@ -30000,7 +30000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (83188,N'Scott Bloom'),
 (83192,N'Michèle Gleizer'),
 (83196,N'Jessica Lundy'),
-(83197,N'Anthony Mockus Sr.'),
+(83197,N'Anthony Mockus Sr.');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (83198,N'Allan Arkush'),
 (83209,N'Vincent Berry'),
 (83211,N'Tasha Simms'),
@@ -31000,7 +31000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (88123,N'Brenda Song'),
 (88124,N'Jesse Plemons'),
 (88125,N'Julius Ritter'),
-(88126,N'Roger Morrissey'),
+(88126,N'Roger Morrissey');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (88127,N'Timon Kyle'),
 (88129,N'Michael Elliot'),
 (88130,N'Jordan Moffet'),
@@ -32000,7 +32000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (93844,N'Eliza Pollack Zebert'),
 (93846,N'Googy Gress'),
 (93848,N'Julian Firth'),
-(93883,N'John Rice'),
+(93883,N'John Rice');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (93887,N'Gary Davis'),
 (93896,N'Mary Anderson'),
 (93905,N'Allan Dwan'),
@@ -33000,7 +33000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (100107,N'Paula Trickey'),
 (100120,N'Jan Rudy'),
 (100138,N'Marcos Mundstock'),
-(100144,N'Richard L. Hawkins'),
+(100144,N'Richard L. Hawkins');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (100158,N'Sebastian Brook'),
 (100203,N'Jim Keltner'),
 (100218,N'Ryan R. Johnson'),
@@ -34000,7 +34000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (108588,N'Darri Ingolfsson'),
 (108620,N'Amanda Walker'),
 (108635,N'Susan Isaacs'),
-(108637,N'Nigel Stock'),
+(108637,N'Nigel Stock');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (108656,N'Angela Allen'),
 (108661,N'Chester Bennington'),
 (108696,N'Susie Abromeit'),
@@ -35000,7 +35000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (114641,N'Bill Kerby'),
 (114646,N'Jesse Vaughan'),
 (114647,N'Bradley Allenstein'),
-(114674,N'Glynn Turman'),
+(114674,N'Glynn Turman');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (114696,N'Ava Cadell'),
 (114697,N'Eric Chen'),
 (114712,N'Anca Radici'),
@@ -36000,7 +36000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (122243,N'John Elsen'),
 (122245,N'Jonathan Hadary'),
 (122250,N'Kris Eivers'),
-(122255,N'Gregor Manns'),
+(122255,N'Gregor Manns');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (122257,N'Robert McKay'),
 (122260,N'Mick O''Rourke'),
 (122268,N'Slava Schoot'),
@@ -37000,7 +37000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (132182,N'Delphine Chuillot'),
 (132183,N'Julian Rappe'),
 (132184,N'Marco Albrecht'),
-(132185,N'Dawid Szatarski'),
+(132185,N'Dawid Szatarski');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (132186,N'Nico Marquardt'),
 (132187,N'Don Jeanes'),
 (132195,N'Pamela Gray'),
@@ -38000,7 +38000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (141787,N'Loyd Bateman'),
 (141788,N'William Waring'),
 (141789,N'Bronwen Mantel'),
-(141801,N'Paige Tamada'),
+(141801,N'Paige Tamada');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (141808,N'Daniel Rey'),
 (141809,N'Dan Thiel'),
 (141810,N'Sabrina Geerinckx'),
@@ -39000,7 +39000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (152863,N'Belita Moreno'),
 (152864,N'Steve Witting'),
 (152888,N'Dante D''Andre'),
-(152902,N'Randy Kovitz'),
+(152902,N'Randy Kovitz');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (152911,N'F.J. O''Neil'),
 (152917,N'Earl Finn'),
 (152926,N'J.P. Bumstead'),
@@ -40000,7 +40000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (166772,N'Joy Behar'),
 (166788,N'Mark Ballou'),
 (166789,N'Dick Smothers'),
-(166807,N'Gordon Michael Woolvett'),
+(166807,N'Gordon Michael Woolvett');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (166818,N'Jason Davis'),
 (166827,N'Gail Neely'),
 (166838,N'Tony Carlin'),
@@ -41000,7 +41000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (183207,N'Peter Barkworth'),
 (183220,N'Christopher Ryan'),
 (183230,N'Mara Brock Akil'),
-(183404,N'Carole Androsky'),
+(183404,N'Carole Androsky');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (183407,N'Jamie Alexis'),
 (183417,N'Earl Richey Jones'),
 (183439,N'Ahmed Ahmed'),
@@ -42000,7 +42000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (207549,N'Perdita Weeks'),
 (207557,N'Marcello Magni'),
 (207558,N'Aidan Turner'),
-(207606,N'Alessandra Ambrosio'),
+(207606,N'Alessandra Ambrosio');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (207628,N'Mackenzie Aladjem'),
 (207636,N'Emma Fryer'),
 (207676,N'Damien Fahey'),
@@ -43000,7 +43000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (229908,N'Chris Beach'),
 (229909,N'Thom Wells'),
 (229910,N'Mark Davidson'),
-(229911,N'Robert Davidson'),
+(229911,N'Robert Davidson');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (229912,N'Christina McQuarrie'),
 (229931,N'Asghar Farhadi'),
 (229932,N'Golshifteh Farahani'),
@@ -44000,7 +44000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (496263,N'Gregory Pekar'),
 (496410,N'Devin Kelley'),
 (496470,N'Jake Lacy'),
-(496591,N'Jake Goldberg'),
+(496591,N'Jake Goldberg');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (496731,N'Ali Cobrin'),
 (496733,N'Liz Dean'),
 (496937,N'Kim Young-ae'),
@@ -45000,7 +45000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (565353,N'Denis Lagrange'),
 (565402,N'Deems Taylor'),
 (565421,N'Mark Henry'),
-(565426,N'Stuart Bennett'),
+(565426,N'Stuart Bennett');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (565491,N'Seth Grahame-Smith'),
 (565498,N'Laura Cayouette'),
 (565500,N'Alex Lombard'),
@@ -46000,7 +46000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (929093,N'Liz Duchez'),
 (929120,N'Liu Hua'),
 (929134,N'Ryan C. Benson'),
-(929136,N'Thomas Horn'),
+(929136,N'Thomas Horn');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (929145,N'Lorne Balfe'),
 (929256,N'Jodi Picoult'),
 (929274,N'Stephen Traxler'),
@@ -47000,7 +47000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (958083,N'Michelle Botticelli'),
 (958084,N'Mark McDuff'),
 (958087,N'Miguel López-Castillo'),
-(958088,N'Jorgen Klubien'),
+(958088,N'Jorgen Klubien');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (958092,N'Denis Renault'),
 (958136,N'Bob Blasdall'),
 (958156,N'Jean-Charles Levy'),
@@ -48000,7 +48000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (992079,N'Audrey Rosenberg'),
 (992097,N'Hugo Guinness'),
 (992174,N'Eric Conger'),
-(992221,N'Dan Hunter'),
+(992221,N'Dan Hunter');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (992282,N'Kyle Fain'),
 (992381,N'Blake Bertrand'),
 (992389,N'Tony Nevada'),
@@ -49000,7 +49000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1027800,N'Barbara Krieger'),
 (1027824,N'Seth Lochhead'),
 (1027825,N'Niall Moroney'),
-(1027850,N'Abigail Hargrove'),
+(1027850,N'Abigail Hargrove');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1027852,N'Basher Savage'),
 (1027869,N'Jorge Sesán'),
 (1028058,N'Dale Duguid'),
@@ -50000,7 +50000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1061552,N'Michael Been'),
 (1061778,N'Juan Inciarte'),
 (1061909,N'Lena'),
-(1061944,N'O.V. Falck-Ytter'),
+(1061944,N'O.V. Falck-Ytter');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1061977,N'Lloll Bertran'),
 (1062005,N'Manel Barceló'),
 (1062031,N'Arthur Elliott'),
@@ -51000,7 +51000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1089491,N'Julia Mack'),
 (1089492,N'Andrea Magro'),
 (1089493,N'Aaron Keller'),
-(1089494,N'Nadine Salomon'),
+(1089494,N'Nadine Salomon');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1089495,N'Naike Jaszczyk'),
 (1089503,N'Johnny Lin'),
 (1089505,N'Peter Atanasoff'),
@@ -52000,7 +52000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1117777,N'Basim Kahar'),
 (1117778,N'Cem Sultan Ungan'),
 (1117779,N'Kiel Murray'),
-(1117780,N'Phil Lorin'),
+(1117780,N'Phil Lorin');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1117781,N'Osnat Shurer'),
 (1117784,N'Patrick Walker'),
 (1117785,N'Michel Michelis'),
@@ -53000,7 +53000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1148463,N'Roger Shearman'),
 (1148496,N'Mizinga Mwinga'),
 (1148517,N'Claudius von Stolzmann'),
-(1148519,N'Jamie Downey'),
+(1148519,N'Jamie Downey');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1148520,N'Liz Daniels'),
 (1148576,N'Dan Frye'),
 (1148622,N'Jakkie Groenewald'),
@@ -54000,7 +54000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1179443,N'Mary Arthurs'),
 (1179444,N'Terry Banting'),
 (1179445,N'George Tchortov'),
-(1179446,N'Adam Bogen'),
+(1179446,N'Adam Bogen');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1179449,N'Ian O''Brien'),
 (1179450,N'Raul Tome'),
 (1179451,N'Lady Vezina'),
@@ -55000,7 +55000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1200631,N'Théophile Sowié'),
 (1200655,N'Sibyl Santiago'),
 (1200729,N'Denis Berkfeldt'),
-(1200788,N'Katherine Britton'),
+(1200788,N'Katherine Britton');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1200791,N'Tommy Thomas'),
 (1200792,N'Granville ''Danny'' Young'),
 (1200793,N'David Harold Brown'),
@@ -56000,7 +56000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1215684,N'Brandon Fobbs'),
 (1215689,N'Christina Chang'),
 (1215738,N'Carmen du Sautoy'),
-(1215739,N'Andrew Woodall'),
+(1215739,N'Andrew Woodall');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1215741,N'Kathryn Drysdale'),
 (1215759,N'Eddie Shin'),
 (1215761,N'Ben Edlund'),
@@ -57000,7 +57000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1231552,N'Bonnie McKee'),
 (1231566,N'Marisol Padilla Sánchez'),
 (1231571,N'Noah Luke'),
-(1231581,N'Susan Richardson'),
+(1231581,N'Susan Richardson');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1231600,N'Ricardo Montez'),
 (1231604,N'Hugh Manning'),
 (1231626,N'Paul Trussell'),
@@ -58000,7 +58000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1265394,N'Carey Goldenberg'),
 (1265395,N'Joe Guastaferro'),
 (1265396,N'Mark Jarvis'),
-(1265397,N'Lawrence Linn'),
+(1265397,N'Lawrence Linn');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1265398,N'Grady Mathews'),
 (1265399,N'Carol Messing'),
 (1265400,N'Rick Mohr'),
@@ -59000,7 +59000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1280232,N'Chucky Venice'),
 (1280233,N'Laurentiu Possa'),
 (1280234,N'Jeffrey Lee Gibson'),
-(1280235,N'Omar Hernandez'),
+(1280235,N'Omar Hernandez');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1280236,N'Kai Martin'),
 (1280244,N'Zaibo'),
 (1280313,N'Patricia Bowers'),
@@ -60000,7 +60000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1302621,N'Kristen Ploucha'),
 (1302636,N'Denise Paulson'),
 (1302645,N'Anthony M. McCovey'),
-(1302657,N'Morris Bush'),
+(1302657,N'Morris Bush');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1302685,N'Walter Leonardi'),
 (1302740,N'Tema L. Staig'),
 (1302747,N'Sean McMahon'),
@@ -61000,7 +61000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1325888,N'Rachel Parkin'),
 (1325895,N'Ray Lau'),
 (1325897,N'Elizabeth Healy'),
-(1325904,N'Tom McCullagh'),
+(1325904,N'Tom McCullagh');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1325905,N'Heather Greenlees'),
 (1325907,N'Kelvin Humenny'),
 (1325908,N'Carol Lavallee'),
@@ -62000,7 +62000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1337401,N'Annika Hellgren'),
 (1337402,N'David Herbert'),
 (1337403,N'Peter Hooper'),
-(1337404,N'Jody King'),
+(1337404,N'Jody King');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1337406,N'Jonathan Moore'),
 (1337408,N'Alistair Hawkins'),
 (1337409,N'Nigel Stone'),
@@ -63000,7 +63000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1350135,N'Stefan Walz'),
 (1350222,N'Claus Lynge'),
 (1350232,N'Orlin Grozdanov'),
-(1350233,N'Anna Hadzhieva'),
+(1350233,N'Anna Hadzhieva');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1350235,N'Alessandro Troso'),
 (1350236,N'Angela Hemingway'),
 (1350237,N'Steven Iba'),
@@ -64000,7 +64000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1367826,N'Brice Liesveld'),
 (1367827,N'James Pastorius'),
 (1367828,N'Gregory Fromentin'),
-(1367829,N'Adrien Adriaco'),
+(1367829,N'Adrien Adriaco');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1367830,N'Nicolas Phongpheth'),
 (1367831,N'Jan Oliver Schroeder'),
 (1367833,N'Eric Shackelford'),
@@ -65000,7 +65000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1379983,N'Simon Price'),
 (1379986,N'Alessandro Cioffi'),
 (1379989,N'Matt Dessero'),
-(1379990,N'Russell Earl'),
+(1379990,N'Russell Earl');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1379991,N'Stephane Naze'),
 (1379992,N'Clark Parkhurst'),
 (1379993,N'Timo Rolle'),
@@ -66000,7 +66000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1391495,N'Tiffany Kinney'),
 (1391496,N'Joey Green'),
 (1391498,N'Fiseha Dimetros'),
-(1391510,N'Bill Grant'),
+(1391510,N'Bill Grant');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1391513,N'Shane Butterworth'),
 (1391520,N'Elena Ivanova'),
 (1391523,N'Evgeniy Matyunenko'),
@@ -67000,7 +67000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1395323,N'Gary Hatfield'),
 (1395324,N'Ben Mullin'),
 (1395326,N'Johnny Benskin'),
-(1395329,N'Leann Murphy'),
+(1395329,N'Leann Murphy');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1395330,N'Kyung W. Chang'),
 (1395332,N'Nithya Shrinivasan'),
 (1395340,N'Will Ward'),
@@ -68000,7 +68000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1401103,N'Sean Van der Wilt'),
 (1401104,N'Penelope Vazquez'),
 (1401105,N'Michael Gleason'),
-(1401106,N'Henry LaBounta'),
+(1401106,N'Henry LaBounta');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1401107,N'Ginger Theisen'),
 (1401108,N'David Nakabayashi'),
 (1401109,N'Chris Haarhoff'),
@@ -69000,7 +69000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1404738,N'Richard Wilson'),
 (1404739,N'Steve Koster'),
 (1404740,N'Jeff Upton'),
-(1404741,N'William Kassis'),
+(1404741,N'William Kassis');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1404742,N'Lance Fisher'),
 (1404744,N'Luisa Dalmagro'),
 (1404745,N'Lee Sollenberger'),
@@ -70000,7 +70000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1409710,N'Candide Franklyn'),
 (1409711,N'Marty McInally'),
 (1409712,N'John Trapman'),
-(1409714,N'Marco Venditto'),
+(1409714,N'Marco Venditto');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1409717,N'Stephanie Girard Hamelin'),
 (1409718,N'Sandra J. Blackie'),
 (1409719,N'Erik Kaufmann'),
@@ -71000,7 +71000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1414554,N'Craig Frosty Silva'),
 (1414555,N'Matthew Kistenmacher'),
 (1414556,N'Joe Diaz'),
-(1414557,N'Jennifer Miller'),
+(1414557,N'Jennifer Miller');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1414558,N'Andy Kaplan'),
 (1414559,N'Sin-Halina Sy'),
 (1414560,N'Robert Royston'),
@@ -72000,7 +72000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1422279,N'Jimmie Lucas'),
 (1422281,N'Jack Tornek'),
 (1422296,N'Billy Wolfstone'),
-(1422337,N'Brendan Burke'),
+(1422337,N'Brendan Burke');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1422356,N'Darnell Kittrell'),
 (1422376,N'Lillian O''Malley'),
 (1422389,N'Jesse Graves'),
@@ -73000,7 +73000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1428903,N'Allen Cappuccilli'),
 (1428904,N'Liana Jackson'),
 (1428905,N'Laura Jennings'),
-(1428906,N'Christopher Learmonth'),
+(1428906,N'Christopher Learmonth');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1428907,N'Hayley Easton Street'),
 (1428908,N'Michael White'),
 (1428909,N'Francesco Alberico'),
@@ -74000,7 +74000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1437306,N'Sean Fairburn'),
 (1437307,N'Daniel Page McDonough'),
 (1437308,N'Felipe Reinheimer'),
-(1437312,N'Allison Pokladowski'),
+(1437312,N'Allison Pokladowski');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1437313,N'David Waters'),
 (1437314,N'Nona Khodai'),
 (1437315,N'Kyle Clausen'),
@@ -75000,7 +75000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1447427,N'Chung Sup Yoon'),
 (1447429,N'Kevin Turcotte'),
 (1447431,N'Dennis Venizelos'),
-(1447436,N'Jennifer Yuan'),
+(1447436,N'Jennifer Yuan');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1447450,N'Ivaylo Anguelov'),
 (1447452,N'Kaukab Basheer'),
 (1447458,N'Rufino Camacho'),
@@ -76000,7 +76000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1454677,N'Gareth Love'),
 (1454678,N'Rhodri Lovett'),
 (1454679,N'Grant Maisey'),
-(1454680,N'Andree Neemann'),
+(1454680,N'Andree Neemann');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1454681,N'Julia Peguet'),
 (1454682,N'Christopher Peladan'),
 (1454683,N'Pascual Perez'),
@@ -77000,7 +77000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1460573,N'Dianne Moffatt'),
 (1460574,N'Robert Lawrence'),
 (1460582,N'Woody Bell'),
-(1460587,N'Tommy Frazier '),
+(1460587,N'Tommy Frazier ');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1460588,N'Hauk Olafsson'),
 (1460590,N'Dan Youngs'),
 (1460593,N'James Forrester'),
@@ -78000,7 +78000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1466463,N'Doris Santos'),
 (1466464,N'Kyung-Sik Song'),
 (1466465,N'Freya Tanz'),
-(1466466,N'Irene Wu'),
+(1466466,N'Irene Wu');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1466467,N'Michael Zodorozny'),
 (1466468,N'Marcela Fuentes-Berain'),
 (1466469,N'Jean Lajeunesse'),
@@ -79000,7 +79000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1481962,N'John Nicholls'),
 (1482031,N'Al Zinnen'),
 (1482050,N'Elliat Albrecht'),
-(1482102,N'Jessica Ambinder-Rojas'),
+(1482102,N'Jessica Ambinder-Rojas');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1482112,N'Dick Anthony'),
 (1482130,N'Manolo Garcia'),
 (1482216,N'Lionel Shriver'),
@@ -80000,7 +80000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1502395,N'Matsuo Satoru'),
 (1502400,N'Ken Brown'),
 (1502406,N'Tom Nowell'),
-(1502428,N'Francesca Brooks'),
+(1502428,N'Francesca Brooks');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1502429,N'Simon Cotton'),
 (1502430,N'Phil Dunster'),
 (1502431,N'Madeleine Worrall'),
@@ -81000,7 +81000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1517120,N'Erica Milo'),
 (1517174,N'Ben Scholfield'),
 (1517251,N'Adam Hagenbuch'),
-(1517399,N'Shea E. Butler'),
+(1517399,N'Shea E. Butler');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1517431,N'Zhao Hongfei'),
 (1517477,N'Orlando Gallegos'),
 (1517535,N'Guy Nardulli'),
@@ -82000,7 +82000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1532224,N'Jim Boulden'),
 (1532231,N'Kevin Knight'),
 (1532232,N'Linda Villalobos'),
-(1532243,N'Lori Ayala-Read'),
+(1532243,N'Lori Ayala-Read');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1532244,N'Sandra Collier'),
 (1532248,N'June Brickman'),
 (1532249,N'Cynthia Barr'),
@@ -83000,7 +83000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1539781,N'Mark S. Driscoll'),
 (1539786,N'Peter Paul'),
 (1539805,N'Beatrix Dollingerova'),
-(1539834,N'Erica Bensly'),
+(1539834,N'Erica Bensly');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1539835,N'Jeff Maynard'),
 (1539838,N'René Demoulin'),
 (1539839,N'Georges Pierre'),
@@ -84000,7 +84000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1549119,N'Matt Turve'),
 (1549120,N'Thomas Vandermillen'),
 (1549121,N'Micah Zarlow'),
-(1549170,N'Jill E. Anderson'),
+(1549170,N'Jill E. Anderson');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1549171,N'Kathleen Gore-Misko'),
 (1549172,N'Emily Wyss'),
 (1549173,N'Pamela Santori'),
@@ -85000,7 +85000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1554977,N'Jesus Nevarez-Castillo'),
 (1554991,N'John Weldy'),
 (1554992,N'Ladislav Hruby'),
-(1554993,N'Malcolm Sheehan'),
+(1554993,N'Malcolm Sheehan');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1554994,N'Danny Saber'),
 (1554995,N'James Weston'),
 (1554996,N'Mark Fattibene'),
@@ -86000,7 +86000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1564496,N'Santiago DeBenito'),
 (1564497,N'Michael B. Gladych'),
 (1564500,N'Juan Clemente Prosper'),
-(1564501,N'Miranda Edwards'),
+(1564501,N'Miranda Edwards');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1564502,N'Clare Preuss'),
 (1564521,N'Shelley A. Wallace'),
 (1564527,N'Eduardo Ponsdomenech'),
@@ -87000,7 +87000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1574648,N'Julie Garceau'),
 (1574649,N'Edison Jackson'),
 (1574650,N'David B. Menkes'),
-(1574652,N'Stéphane Byl'),
+(1574652,N'Stéphane Byl');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1574653,N'Richard Complaisance'),
 (1574655,N'Vanessa R. Jordan'),
 (1574656,N'Manon Lapointe'),
@@ -88000,7 +88000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1585905,N'Katja u0160kofiu0107'),
 (1585906,N'Ana Dolinar'),
 (1585907,N'Lena Capuder'),
-(1585908,N'Andrej Zupanec'),
+(1585908,N'Andrej Zupanec');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1585909,N'Aleu0161 Pavlin'),
 (1585929,N'Shaamilla Noordien'),
 (1585930,N'Riaz Solker'),
@@ -89000,7 +89000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1600104,N'Julie Helton'),
 (1600105,N'Kristina Soderquist'),
 (1600106,N'Norberto Nava'),
-(1600107,N'Hally Grounds'),
+(1600107,N'Hally Grounds');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1600108,N'Ariel Oclarino'),
 (1600109,N'Satya Bellord'),
 (1600110,N'Edgar Ambriz Espinoza'),
@@ -90000,7 +90000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1617581,N'Carlos Miguel'),
 (1617582,N'Ana Urosa'),
 (1617583,N'Carlos Montosa'),
-(1617584,N'Alberto Báez'),
+(1617584,N'Alberto Báez');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1617585,N'David Martí'),
 (1617586,N'Eva Muslera'),
 (1617587,N'Tino Torrescusa'),
@@ -91000,7 +91000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1636733,N'Edward Hanrahan'),
 (1636743,N'Jayne Shadduck'),
 (1636750,N'Max Wang'),
-(1636759,N'Logan Fry'),
+(1636759,N'Logan Fry');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1636767,N'Joe Gallipoli'),
 (1636785,N'Jay J. Bidwell'),
 (1636795,N'David Gragg'),
@@ -92000,7 +92000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1650962,N'Marie Meyer'),
 (1650963,N'Robert Earley'),
 (1650965,N'Aleczander Gordon'),
-(1650983,N'Tsouli Mohammed'),
+(1650983,N'Tsouli Mohammed');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1650996,N'Benny Maslov'),
 (1650997,N'Monica Zamora'),
 (1651001,N'Monica Perego'),
@@ -93000,7 +93000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1672089,N'Zachary L. Mann'),
 (1672090,N'Cobette Harper'),
 (1672274,N'John Davies'),
-(1672275,N'Rachel Nicholls'),
+(1672275,N'Rachel Nicholls');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1672382,N'Lauren K. Solomon'),
 (1672535,N'Cai Hongxiang'),
 (1672562,N'Lytle Harper'),
@@ -94000,7 +94000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1692700,N'Paul E. Moes'),
 (1692701,N'Emily Coutts'),
 (1692702,N'Susan H. Bodine'),
-(1692703,N'Will Sickles'),
+(1692703,N'Will Sickles');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1692704,N'Ben Brafman'),
 (1692705,N'Arlene Craig'),
 (1692706,N'Mike Larivee'),
@@ -95000,7 +95000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1713989,N'Steven Michael Adams'),
 (1713990,N'Keith McCulloch'),
 (1714155,N'Jeff Rose'),
-(1714162,N'Deonna Young'),
+(1714162,N'Deonna Young');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1714267,N'Gregory Tyree Boyce'),
 (1714270,N'Mariel Belanger'),
 (1714286,N'Rebecca Barras'),
@@ -96000,7 +96000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1730954,N'Katie Nott'),
 (1730955,N'Chris Geissman'),
 (1730956,N'Wayne Truce'),
-(1730959,N'Sean Barnes'),
+(1730959,N'Sean Barnes');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1730960,N'Carolyn Nott'),
 (1730962,N'Scott McMaster'),
 (1730964,N'Allan Mowbray'),
@@ -97000,7 +97000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1742643,N'Jules Davison'),
 (1742644,N'Matt Dempsey'),
 (1742645,N'Nikki Dunsford'),
-(1742654,N'Jane Fowler'),
+(1742654,N'Jane Fowler');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1742655,N'Adam Galbraith'),
 (1742656,N'Chris Grierson'),
 (1742657,N'William Mowat'),
@@ -98000,7 +98000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1752202,N'Sabrina Furr'),
 (1752203,N'George Hubela'),
 (1752204,N'Jameson Perry'),
-(1752205,N'Ashley Phipps'),
+(1752205,N'Ashley Phipps');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1752206,N'Denise Piane'),
 (1752207,N'Sarah Satow'),
 (1752208,N'John Alix'),
@@ -99000,7 +99000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1762786,N'Eric Bardin'),
 (1762789,N'Charlie Newberry'),
 (1762793,N'Alain Masse'),
-(1762795,N'Joost Clerinx'),
+(1762795,N'Joost Clerinx');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1762832,N'Steve Woodley'),
 (1762891,N'Norman Merrill'),
 (1762900,N'Janice Knickrehm'),
@@ -100000,7 +100000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1777239,N'Jose Jimenez'),
 (1777240,N'Hugo Chew'),
 (1777241,N'Jeff Burrage'),
-(1777418,N'Osamu Tanpopo'),
+(1777418,N'Osamu Tanpopo');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1777419,N'Yasuo Tobishima'),
 (1777420,N'Ibuki Kaneda'),
 (1777429,N'Lidija Antonic'),
@@ -101000,7 +101000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1792877,N'Joseph Dianda'),
 (1792880,N'Carl Bailey'),
 (1792881,N'Morris Bension'),
-(1792882,N'Steven Hintz'),
+(1792882,N'Steven Hintz');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1792883,N'Lucille M. Michael'),
 (1792884,N'LaFaye Baker'),
 (1792888,N'Scott Patten'),
@@ -102000,7 +102000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1819136,N'Logan Ludwig'),
 (1819137,N'Larry Dean'),
 (1819138,N'Raquel Vázquez Gutiérrez'),
-(1819141,N'Elijah Villegas'),
+(1819141,N'Elijah Villegas');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1819142,N'Janet Worner'),
 (1819143,N'Janice Matthews'),
 (1819144,N'Bruce Morningstar'),
@@ -103000,7 +103000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1853182,N'Samatha Pearson'),
 (1853183,N'Ken Duvall'),
 (1853184,N'Cecile Krevoy'),
-(1853185,N'George Bedard'),
+(1853185,N'George Bedard');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1853186,N'Bill Beauchene'),
 (1853187,N'Gary Sivertsen'),
 (1853188,N'John Stroehman'),
@@ -104000,7 +104000,7 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1872866,N'Anthony Tulloch'),
 (1872867,N'Jason Chalmers'),
 (1872868,N'Jessica Haston'),
-(1872871,N'Yoram Mandel'),
+(1872871,N'Yoram Mandel');INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1872872,N'Janet Jacobson'),
 (1872873,N'Alison Parker'),
 (1872874,N'Ben Joss'),
@@ -104843,3 +104843,5 @@ INSERT INTO persona (persona_id, persona_nombre) VALUES
 (1893237,N'John Ditomaso'),
 (1893238,N'Kevin Farrell'),
 (1893239,N'Cindy Fischer');
+
+GO

@@ -1000,7 +1000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1726,90721,N'Zorianna Kit',0,54),
 (1726,169681,N'Stan''s Girl',0,55),
 (1726,1209712,N'Stan''s Girl',0,56),
-(1726,1209713,N'Stan''s Girl',0,57),
+(1726,1209713,N'Stan''s Girl',0,57);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1726,169642,N'Stan''s Girl',0,58),
 (1726,27031,N'CAOC Analyst',2,59),
 (1726,34544,N'CAOC Analyst',2,60),
@@ -2000,7 +2000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (5559,11477,N'Ray Liotta',2,21),
 (5559,982,N'Sting',0,22),
 (5559,52141,N'Bee (voice)',2,23),
-(5559,1740811,N'',0,24),
+(5559,1740811,N'',0,24);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (956,500,N'Ethan Hunt',2,0),
 (956,1233,N'Owen Davian',2,1),
 (956,10182,N'Luther Stickell',2,2),
@@ -3000,7 +3000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (2133,104191,N'Sgt. Millard Jones',2,19),
 (2133,156927,N'Dale Murphy, Jr.',2,20),
 (2133,105000,N'Debra Murphy',1,21),
-(2133,37624,N'Alfred Pierre''s Girlfriend',1,22),
+(2133,37624,N'Alfred Pierre''s Girlfriend',1,22);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (2133,58620,N'Douglas Kosco',2,23),
 (2133,102823,N'Quentin - The Old Timer',2,24),
 (2133,177621,N'Pam - Todd Gross'' Assistant',1,25),
@@ -4000,7 +4000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (4982,4253,N'Rossi',2,34),
 (4982,150932,N'Police Captain',0,35),
 (4982,78719,N'Judge James Racine',2,36),
-(4982,78885,N'Bailiff',0,37),
+(4982,78885,N'Bailiff',0,37);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (4982,38572,N'Mike Sobota',2,38),
 (4982,143237,N'Social Worker',1,39),
 (4982,4886,N'Detective in Morgue',2,40),
@@ -5000,7 +5000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (7446,1777585,N'Starlet (uncredited)',1,48),
 (7446,1777586,N'Sack Race Boy (uncredited)',0,49),
 (7446,1680921,N'Sack Race Girl (uncredited)',0,50),
-(7446,1225936,N'Trophy Presenter (uncredited)',1,51),
+(7446,1225936,N'Trophy Presenter (uncredited)',1,51);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (7446,1777589,N'Audience Member (uncredited)',0,52),
 (7446,1396608,N'Academy Awards Audience Member (uncredited)',0,53),
 (7446,1202547,N'Academy Awards Attendee (uncredited)',0,54),
@@ -6000,7 +6000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1949,6163,N'Duffy Jennings',2,20),
 (1949,7471,N'Mel Nicolai',2,21),
 (1949,1180860,N'Zodiac 4',0,22),
-(1949,17449,N'Zodiac 3',2,23),
+(1949,17449,N'Zodiac 3',2,23);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1949,7472,N'Zodiac 1 y 2',2,24),
 (1949,1040166,N'Man on Marquee',2,25),
 (8452,1100,N'Adam Gibson',2,0),
@@ -7000,7 +7000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (602,46930,N'Teddy',2,19),
 (602,54455,N'Philip',2,20),
 (602,2221,N'Technician/ Medical Assistant 1',2,21),
-(602,1173560,N'Aide',0,22),
+(602,1173560,N'Aide',0,22);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (602,199697,N'Aide',0,23),
 (602,111514,N'Whitmore''s Aide',0,24),
 (602,97943,N'Commander / Tech',2,25),
@@ -8000,7 +8000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1997,20529,N'Paulette',0,5),
 (1997,13687,N'Eugène Normandin',2,6),
 (1997,20530,N'Mathilde Normandin',1,7),
-(1997,20531,N'Zerbino',0,8),
+(1997,20531,N'Zerbino',0,8);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1997,20532,N'Saladin',2,9),
 (1997,1281,N'Raoul Normandin',2,10),
 (1997,1014207,N'His Excellency''s Majordomo',2,11),
@@ -9000,7 +9000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (568,1400384,N'Launch Director',0,18),
 (568,152718,N'Neil Armstrong',2,19),
 (568,43461,N'Guenter Wendt',2,20),
-(568,15661,N'Sy Liebergot - EECOM White',2,21),
+(568,15661,N'Sy Liebergot - EECOM White',2,21);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (568,41517,N'Dr. Chuck',2,22),
 (568,16841,N'CAPCOM 1',2,23),
 (568,8175,N'Orderly',2,24),
@@ -10000,7 +10000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (2642,1571038,N'Tom',0,20),
 (2642,77092,N'Construction Foreman',0,21),
 (2642,1571039,N'Masseuse',0,22),
-(2642,176695,N'Polly St. Clair',0,23),
+(2642,176695,N'Polly St. Clair',0,23);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (2642,1571040,N'Cookie Girl',1,24),
 (2642,33663,N'Himself',2,25),
 (8916,1243,N'Z-4195 aka Z (voice)',2,0),
@@ -11000,7 +11000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1813,6384,N'Kevin Lomax',2,0),
 (1813,1158,N'John Milton',2,1),
 (1813,6885,N'Mary Ann Lomax',1,2),
-(1813,4004,N'Eddie Barzoon',2,3),
+(1813,4004,N'Eddie Barzoon',2,3);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1813,19239,N'Alice Lomax',1,4),
 (1813,935,N'Christabella Andreoli',1,5),
 (1813,8977,N'Alexander Cullen',2,6),
@@ -12000,7 +12000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (242,3094,N'Connie Corleone-Rizzi',1,3),
 (242,1769,N'Mary Corleone',1,4),
 (242,3265,N'Don Altobello',2,5),
-(242,3266,N'Joey Zasa',2,6),
+(242,3266,N'Joey Zasa',2,6);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (242,3267,N'B.J. Harrison',2,7),
 (242,2233,N'Grace Hamilton',1,8),
 (242,3268,N'Cardinal Lamberto',2,9),
@@ -13000,7 +13000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (752,40689,N'Radio Man',2,61),
 (752,109167,N'Soldier (uncredited)',0,62),
 (752,531772,N'V Follower (uncredited)',2,63),
-(752,962343,N'V Follower (uncredited)',2,64),
+(752,962343,N'V Follower (uncredited)',2,64);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (752,30452,N'V Follower (uncredited)',2,65),
 (752,1566178,N'V Follower (uncredited)',0,66),
 (752,1344642,N'Soldier (uncredited)',0,67),
@@ -14000,7 +14000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (2148,922,N'Abbadabba Berman',2,7),
 (2148,56266,N'Frenchy Demange',2,8),
 (2148,54122,N'Tish Dwyer',1,9),
-(2148,9259,N'Frances Flegenheimer',1,10),
+(2148,9259,N'Frances Flegenheimer',1,10);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (2148,1825507,N'Clay Williams',0,11),
 (2148,130723,N'Sol Weinstein',0,12),
 (2148,55272,N'Madame St. Clair',1,13),
@@ -15000,7 +15000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (5503,1231,N'Dr. Anne Eastman',1,3),
 (5503,532,N'Cosmo Renfro',2,4),
 (5503,43773,N'Sykes',2,5),
-(5503,1924,N'Dr. Charles Nichols',0,6),
+(5503,1924,N'Dr. Charles Nichols',0,6);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (5503,43774,N'Biggs',2,7),
 (5503,29051,N'Poole',1,8),
 (5503,57597,N'Detective Kelly',2,9),
@@ -16000,7 +16000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (820,124087,N'Tippet Shooter',2,63),
 (820,11895,N'Officer Poe',0,64),
 (820,90848,N'Dr. Rose (credited on Director''s Cut)',0,65),
-(820,951881,N'Jerry Johnson''s Sidekick (credited on Director''s Cut)',2,66),
+(820,951881,N'Jerry Johnson''s Sidekick (credited on Director''s Cut)',2,66);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (820,3188,N'Samuel (credited on Director''s Cut)',2,67),
 (820,14101,N'Jerry Johnson (credited on Director''s Cut)',2,68),
 (820,68179,N'Garrison''s Secretary (credited in Director''s Cut)',0,69),
@@ -17000,7 +17000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (334,3905,N'Donnie Smith',2,1),
 (334,4764,N'Jim Kurring',2,2),
 (334,500,N'Frank T.J. Mackey',2,3),
-(334,4492,N'Jimmy Gator',2,4),
+(334,4492,N'Jimmy Gator',2,4);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (334,1233,N'Phil Parma',2,5),
 (334,4765,N'Earl Partridge',2,6),
 (334,658,N'Solomon Solomon',2,7),
@@ -18000,7 +18000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (9093,15739,N'Colonel Hamilton',2,17),
 (9093,1392707,N'Woman in Red Veil',0,18),
 (9093,1392708,N'Saadi',0,19),
-(9093,1392709,N'Wounded Captain',0,20),
+(9093,1392709,N'Wounded Captain',0,20);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (9093,1392710,N'Dervish Captain',0,21),
 (9093,1392711,N'British Corporal',0,22),
 (9093,1392712,N'Youssef',0,23),
@@ -19000,7 +19000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (2770,91215,N'Mom',1,42),
 (2770,114021,N'Dad',2,43),
 (2770,1216502,N'Kid',2,44),
-(2770,168387,N'Female EMT',1,45),
+(2770,168387,N'Female EMT',1,45);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (2770,58620,N'Male EMT',2,46),
 (2770,164618,N'Cashier',2,47),
 (2770,1217939,N'Grill Guy',2,48),
@@ -20000,7 +20000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (4513,1621931,N'Gail Robbins',1,25),
 (4513,1621932,N'Ally Riis',1,26),
 (4513,1502553,N'Peter Toomey',2,27),
-(4513,1399812,N'Helen Munson',1,28),
+(4513,1399812,N'Helen Munson',1,28);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (4513,1621933,N'Tom Melanson',2,29),
 (4513,1193195,N'Gus Lambert',2,30),
 (4513,1399824,N'Zurial',2,31),
@@ -21000,7 +21000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (3638,37153,N'Charlotte',1,10),
 (3638,13728,N'Mr. Peterson',2,11),
 (3638,1989,N'Mrs. Peterson',1,12),
-(3638,111116,N'Ken',2,13),
+(3638,111116,N'Ken',2,13);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (3638,1517868,N'Ken''s Wife',1,14),
 (3638,33395,N'Anna',1,15),
 (3638,10693,N'School principal Ellen Parker',1,16),
@@ -22000,7 +22000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1985,20425,N'Tim Donohue',2,4),
 (1985,4935,N'Dr. Lorbeer aka Dr. Brandt',2,5),
 (1985,7025,N'Arthur Ham Hammond',2,6),
-(1985,5418,N'Dr. Arnold Bluhm',2,7),
+(1985,5418,N'Dr. Arnold Bluhm',2,7);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1985,20426,N'Miriam',1,8),
 (1985,20427,N'Jomo',0,9),
 (1985,20428,N'Jomo''s Wife',0,10),
@@ -23000,7 +23000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (5123,1781840,N'Social Worker',1,51),
 (5123,1781349,N'Music Lover',0,52),
 (5123,968746,N'Social Worker',2,53),
-(5123,1765870,N'Central Park Bike Rider',0,54),
+(5123,1765870,N'Central Park Bike Rider',0,54);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (5123,1781842,N'CBGB''s Rocker',0,55),
 (5123,26290,N'Philharmonic Audience Member',1,56),
 (5123,118641,N'NY Traveler',1,57),
@@ -24000,7 +24000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (2453,20761,N'David',2,14),
 (2453,33713,N'Guard',2,15),
 (6973,2176,N'Hank Deerfield',2,0),
-(6973,6885,N'Detective Emily Sanders',1,1),
+(6973,6885,N'Detective Emily Sanders',1,1);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (6973,4038,N'Joan Deerfield',1,2),
 (6973,3713,N'Evie',1,3),
 (6973,17051,N'Sergeant Carnelli',2,4),
@@ -25000,7 +25000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1584,1737865,N'Concert Goer',0,74),
 (9312,38559,N'Lord Rayden',2,0),
 (9312,57250,N'Liu Kang',0,1),
-(9312,57251,N'Johnny Cage',2,2),
+(9312,57251,N'Johnny Cage',2,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (9312,11398,N'Shang Tsung',2,3),
 (9312,20751,N'Sonya Blade',0,4),
 (9312,10680,N'Princess Kitana',1,5),
@@ -26000,7 +26000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (2639,10447,N'Beth Kramer',1,7),
 (2639,1951,N'Fay',1,8),
 (2639,24318,N'Ken',2,9),
-(2639,12438,N'Richard',2,10),
+(2639,12438,N'Richard',2,10);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (2639,2219,N'Harvey Stern/Harry''s Character',2,11),
 (2639,27564,N'Hilly',2,12),
 (2639,2157,N'Mel',2,13),
@@ -27000,7 +27000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (522,1196132,N'Nurse',1,49),
 (522,12889,N'Doctor',2,50),
 (522,3218,N'Rental House Manager',2,51),
-(522,1845370,N'Wrestling Opponent',0,52),
+(522,1845370,N'Wrestling Opponent',0,52);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (522,97856,N'Theatre Manager',0,53),
 (522,193063,N'Angry Kid',0,54),
 (522,1174939,N'Tourist',2,55),
@@ -28000,7 +28000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (3877,963844,N'Dory Burke',0,6),
 (3877,83852,N'Cousin Dave',2,7),
 (3877,89885,N'Cousin Joel',2,8),
-(3877,3911,N'Howard Glassman',2,9),
+(3877,3911,N'Howard Glassman',2,9);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (8854,35806,N'John Henry Irons / Steel',2,0),
 (8854,49425,N'Sparky',1,1),
 (8854,6487,N'Onkel Joe',2,2),
@@ -29000,7 +29000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (9557,52117,N'Nick Ragoni',2,1),
 (9557,41901,N'Gabriella',1,2),
 (9557,2535,N'Felicia',1,3),
-(9557,44243,N'Hector',2,4),
+(9557,44243,N'Hector',2,4);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (9557,10222,N'Lloyd Faversham',2,5),
 (9557,72689,N'Inga',1,6),
 (9557,7401,N'Sonya the Coach',1,7),
@@ -30000,7 +30000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (9644,14104,N'Comic Cop',2,19),
 (9644,11786,N'Interrogator',2,20),
 (9644,16119,N'Interrogator',2,21),
-(9644,1538,N'D.A.',0,22),
+(9644,1538,N'D.A.',0,22);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (9644,7675,N'FBI Agent',2,23),
 (1954,18976,N'Evan Treborn',2,0),
 (1954,4766,N'Andrea Treborn',1,1),
@@ -31000,7 +31000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (9550,1620869,N'',0,6),
 (9550,1620870,N'',0,7),
 (9550,1620872,N'',0,8),
-(9550,1620873,N'',0,9),
+(9550,1620873,N'',0,9);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (9550,1620874,N'',0,10),
 (9550,1620875,N'',0,11),
 (9550,1620876,N'',0,12),
@@ -32000,7 +32000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (9526,52792,N'Molly',1,11),
 (9526,986399,N'Stage Manager',2,12),
 (9526,986400,N'Makeup Lady',1,13),
-(9526,1364537,N'Sound Effects Man',0,14),
+(9526,1364537,N'Sound Effects Man',0,14);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (8359,17140,N'Kit Kittredge',1,0),
 (8359,5577,N'Mr. Kittredge',2,1),
 (8359,15887,N'Mrs. Kittredge',1,2),
@@ -33000,7 +33000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1544,21553,N'Ella',1,6),
 (1544,21270,N'H',1,7),
 (1544,21679,N'Zina',0,8),
-(1544,16901,N'Edie',1,9),
+(1544,16901,N'Edie',1,9);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1544,34257,N'Ned',2,10),
 (1544,289370,N'Anna',1,11),
 (1544,11280,N'Rob',2,12),
@@ -34000,7 +34000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (1443,204997,N'Cecilia Lisbon',1,8),
 (1443,17238,N'Therese Lisbon',0,9),
 (1443,17239,N'Bonnie Lisbon',1,10),
-(1443,17243,N'Tim Weiner',2,11),
+(1443,17243,N'Tim Weiner',2,11);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1443,1239453,N'Parkie Denton',0,12),
 (1443,17240,N'Chase Buell',2,13),
 (1443,17241,N'David Barker',0,14),
@@ -35000,7 +35000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (4550,1299313,N'Preacher',2,10),
 (4550,1299317,N'TV Announcer',1,11),
 (4550,1299277,N'Detective Choi',0,12),
-(4550,1299313,N'jeon-do-sa',2,14),
+(4550,1299313,N'jeon-do-sa',2,14);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (4550,980225,N'Oh Su-hee',1,16),
 (4550,1255409,N'Geun-shik',0,17),
 (4550,150697,N'Woo So-young''s husband',2,18),
@@ -36000,7 +36000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (658,605021,N'Capungo',2,25),
 (658,231801,N'Hawker',0,26),
 (658,1633210,N'Flying Circus Pilot',1,27),
-(1585,854,N'George Bailey',2,0),
+(1585,854,N'George Bailey',2,0);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1585,17752,N'Mary Hatch',1,1),
 (1585,17753,N'Henry F. Potter',2,2),
 (1585,3383,N'Uncle Billy Bailey',2,3),
@@ -37000,7 +37000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (657,9899,N'Vavra',2,8),
 (657,9901,N'Kerim''s Girl',0,9),
 (657,9878,N'Miss Moneypenny',1,10),
-(657,9902,N'Vida',1,11),
+(657,9902,N'Vida',1,11);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (657,9906,N'Q',2,12),
 (657,39036,N'Kronsteen',2,13),
 (657,9900,N'Train Conductor',2,14),
@@ -38000,7 +38000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (100,982,N'JD',0,5),
 (100,978,N'Winston',2,6),
 (100,984,N'J',2,7),
-(100,987,N'Barry the Baptist',2,8),
+(100,987,N'Barry the Baptist',2,8);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (100,989,N'''Hatchet'' Harry Lonsdale',0,9),
 (100,990,N'Dog',2,10),
 (100,992,N'Paul',2,11),
@@ -39000,7 +39000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (8193,53932,N'Don',2,9),
 (8193,53933,N'Trisha',1,10),
 (8193,53934,N'Ilene',1,11),
-(8193,1613043,N'School Kid',1,12),
+(8193,1613043,N'School Kid',1,12);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (1282,2228,N'Narrator',2,0),
 (1282,29900,N'Himself (Zephyr skate team)',2,1),
 (1282,9290,N'Himself',2,2),
@@ -40000,7 +40000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10138,1265248,N'Expo Fan',0,18),
 (10138,1265249,N'Russian Newscaster',0,19),
 (10138,1177850,N'French Photographer',0,20),
-(10138,586090,N'Himself',0,21),
+(10138,586090,N'Himself',0,21);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10138,1228219,N'Himself',2,22),
 (10138,40275,N'Major Allen',2,23),
 (10138,1230885,N'General Meade',0,24),
@@ -41000,7 +41000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (27581,52117,N'Gallery Owner',2,24),
 (27581,111678,N'Gallery Attendee',2,25),
 (27581,147445,N'Himself',2,26),
-(27581,4810,N'Herself',1,27),
+(27581,4810,N'Herself',1,27);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (27581,56903,N'Himself',2,28),
 (10545,3999,N'Quasimodo (voice)',2,0),
 (10545,3416,N'Esmeralda (voice)',1,1),
@@ -42000,7 +42000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10202,1202545,N'Student (uncredited)',0,56),
 (10202,205649,N'Paparazzi (uncredited)',0,57),
 (10202,1202546,N'Rabbi (uncredited)',0,58),
-(10202,1202547,N'A Spaceball (uncredited)',0,59),
+(10202,1202547,N'A Spaceball (uncredited)',0,59);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10202,1202548,N'Daft Alien (uncredited)',0,60),
 (10202,1202549,N'Western Girl (uncredited)',0,61),
 (10202,1202550,N'Party Girl (uncredited)',0,62),
@@ -43000,7 +43000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10592,51792,N'Sgt. Carl S. Webb',2,7),
 (10592,8192,N'Col. J.M. Lange',2,8),
 (10592,51381,N'Pfc. W. Roy Potts',2,9),
-(10592,5090,N'Pvt. Daniel E. Abrams',2,10),
+(10592,5090,N'Pvt. Daniel E. Abrams',2,10);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10592,27773,N'Pvt. Lewis P. Wakely',2,11),
 (10592,65726,N'Pfc. Dennis A. Gerber',2,12),
 (10592,65727,N'Capt. R.G. Sisk',0,13),
@@ -44000,7 +44000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11015,1337441,N'Perri Masai',1,26),
 (13389,380,N'Turk',2,0),
 (13389,17832,N'Karen Corelli',1,1),
-(13389,62644,N'Spider',2,2),
+(13389,62644,N'Spider',2,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (13389,1158,N'Rooster',2,3),
 (13389,2680,N'Detective Ted Riley',2,4),
 (13389,6197,N'Lieutentant Hingis',2,5),
@@ -45000,7 +45000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10201,133400,N'Woman Bank Employee',1,19),
 (10329,350,N'Dr. Karen Ross',1,0),
 (10329,21043,N'Dr. Peter Elliot',2,1),
-(10329,8874,N'Captain Munro Kelly',2,2),
+(10329,8874,N'Captain Munro Kelly',2,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10329,13472,N'Herkermer Homolka',2,3),
 (10329,31511,N'Richard',2,4),
 (10329,10671,N'R.B. Travis',2,5),
@@ -46000,7 +46000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (27573,19208,N'Gary',2,6),
 (27573,58224,N'Stewart',2,7),
 (27573,962997,N'Jimmy',2,8),
-(27573,11870,N'Kitty Hurley',1,9),
+(27573,11870,N'Kitty Hurley',1,9);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (27573,26718,N'Bobby Jenkins',2,10),
 (27573,82167,N'Arthur',0,11),
 (27573,167582,N'Judge',0,12),
@@ -47000,7 +47000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11858,518,N'Bill Rago',2,0),
 (11858,13240,N'Pvt. Tommy Lee Haywood',2,1),
 (11858,66804,N'Sergeant Cass',2,2),
-(11858,1736,N'Captain Tom Murdoch',2,3),
+(11858,1736,N'Captain Tom Murdoch',2,3);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (11858,42157,N'Jack Markin',2,4),
 (11858,17917,N'Soldat Donnie Benitez',2,5),
 (11858,58150,N'Soldat Miranda Myers',1,6),
@@ -48000,7 +48000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (23742,104196,N'Captain Romans',2,12),
 (23742,8695,N'Poh Boy',2,13),
 (23742,205586,N'Julio',0,14),
-(23742,577478,N'Russian Lawyer''s Wife',1,15),
+(23742,577478,N'Russian Lawyer''s Wife',1,15);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (23742,61110,N'Russian Lawyer',2,16),
 (23742,56910,N'Laura',1,17),
 (23742,1056523,N'Kevin',2,18),
@@ -49000,7 +49000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (12596,112,N'Connie Falzone',1,2),
 (12596,11701,N'Mary Bell',1,3),
 (12596,76102,N'Enzo Sorrento',2,4),
-(13460,25702,N'Major Eden Sinclair',1,0),
+(13460,25702,N'Major Eden Sinclair',1,0);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (13460,382,N'Bill Nelson',2,1),
 (13460,56890,N'Dr. Marcus Kane',2,2),
 (13460,2957,N'Prime Minister John Hatcher',2,3),
@@ -50000,7 +50000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10350,9825,N'Lt. Cmdr. ''Angel'' Devereaux',0,1),
 (10350,26457,N'Lt. Todd ''Maniac'' Marshall',2,2),
 (10350,10698,N'Cmmdre. James ''Paladin'' Taggart',2,3),
-(10350,920,N'Cdr. Paul Gerald',2,4),
+(10350,920,N'Cdr. Paul Gerald',2,4);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10350,20277,N'Capt. Jason Sansky',2,5),
 (10350,2076,N'Admiral Geoffrey Tolwyn',2,6),
 (10350,178579,N'Lt. Rosie Forbes',0,7),
@@ -51000,7 +51000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11509,2047,N'Malachi ''Mal'' Johnson',2,3),
 (11509,6197,N'Cobb',2,4),
 (11509,8930,N'Sheriff John T. Langston',0,5),
-(11509,60677,N'Trooper (as Brad Williams)',2,6),
+(11509,60677,N'Trooper (as Brad Williams)',2,6);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (11509,13003,N'Clerk',2,7),
 (11509,4080,N'Cavalry Sergeant',2,8),
 (11509,30368,N'Boy at Outpost',2,9),
@@ -52000,7 +52000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11699,77278,N'Daryl',2,15),
 (11699,110999,N'Larry Moy',2,16),
 (11699,129868,N'Rick Fitzsimon',2,17),
-(11699,1485912,N'G (Gary Jenkins)',2,18),
+(11699,1485912,N'G (Gary Jenkins)',2,18);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (11699,930994,N'Midget',2,19),
 (11699,1633662,N'Antoinette',1,20),
 (11699,84760,N'Evaristo Chavez',2,21),
@@ -53000,7 +53000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (16363,115768,N'Himself',2,11),
 (16363,30297,N'Edsel',2,12),
 (16363,1651878,N'Chicken Ranch Girl (as Sandi Johnson)',0,13),
-(16363,103582,N'Chicken Ranch Girl',1,14),
+(16363,103582,N'Chicken Ranch Girl',1,14);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (16363,99841,N'Wulla Jean',1,15),
 (16363,151521,N'Sheriff Chapman',2,16),
 (16363,17488,N'Governor''s Secretary',1,17),
@@ -54000,7 +54000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10773,3300,N'Peggy',1,6),
 (10773,207384,N'Vera',1,7),
 (10773,13014,N'Gordon',2,8),
-(10773,55471,N'Paul',2,9),
+(10773,55471,N'Paul',2,9);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10773,113968,N'Doris',1,10),
 (10773,115681,N'Frances',1,11),
 (10773,8445,N'Lord Cromer''s Secretary',2,12),
@@ -55000,7 +55000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (25643,116549,N'Burke''s Mother-in-Law',1,4),
 (25643,3911,N'Walter',2,5),
 (25643,58873,N'Lane',2,6),
-(25643,64154,N'Jessica',1,7),
+(25643,64154,N'Jessica',1,7);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (25643,4432,N'Eloise''s Mom',1,8),
 (25643,29234,N'Tyler',2,9),
 (25643,2249,N'Cab Driver',2,10),
@@ -56000,7 +56000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (10956,9832,N'Bondi',2,12),
 (10956,2719,N'Buffalo Bob',2,13),
 (10956,2165,N'Charlene the Gator Farmer',1,14),
-(10956,10671,N'Don, Brandy''s Dad',2,15),
+(10956,10671,N'Don, Brandy''s Dad',2,15);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (10956,58478,N'Greasy Mechanic',2,16),
 (10956,18262,N'Car Dealer',2,17),
 (13972,9599,N'Maggie',1,0),
@@ -57000,7 +57000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (23706,967621,N'Little Deaf Girl',1,11),
 (23706,185805,N'Vasquez',0,12),
 (23706,115874,N'Rescue Supervisor',0,13),
-(23706,157058,N'Rescuer',2,14),
+(23706,157058,N'Rescuer',2,14);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (23706,6735,N'Protestor Lydia',1,15),
 (23706,1569054,N'CCN Meteorologist',1,16),
 (23706,11111,N'Patient',1,17),
@@ -58000,7 +58000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (23988,90725,N'Guy #1',0,14),
 (23988,90726,N'Pinhead',2,15),
 (23988,90727,N'Employee #2',0,16),
-(23988,90728,N'-',0,17),
+(23988,90728,N'-',0,17);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (23988,90729,N'Busboy',2,18),
 (23988,90730,N'Michael Jackson',0,19),
 (23988,90731,N'Employee #1',2,20),
@@ -59000,7 +59000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (14799,53863,N'Junior Agent',2,16),
 (14799,17835,N'Martin Gibb',2,17),
 (14799,75463,N'Hate It Film Critic',2,18),
-(14799,27530,N'Love It Film Critic',2,19),
+(14799,27530,N'Love It Film Critic',2,19);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (14799,46074,N'Mary Pat Hooligan',1,20),
 (14799,21125,N'Marketing Person',2,21),
 (14799,25540,N'Marketing Person',1,22),
@@ -60000,7 +60000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (17917,125459,N'Bumble',2,3),
 (17917,25638,N'Oliver',2,4),
 (17917,140029,N'The Artful Dodger',0,5),
-(17917,10021,N'Magistrate',0,6),
+(17917,10021,N'Magistrate',0,6);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (17917,88894,N'Mr. Brownlow',2,7),
 (17917,43798,N'Mrs. Bumble',1,8),
 (17917,249,N'Sowerberry',2,9),
@@ -61000,7 +61000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (12245,39659,N'Yuri Podorov',0,5),
 (12245,2413,N'Frank',2,6),
 (12245,8227,N'Mrs. Eagleton',1,7),
-(12245,165424,N'Scott',0,8),
+(12245,165424,N'Scott',0,8);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (12245,31493,N'Kalman',0,9),
 (12245,1575424,N'Newscaster',0,10),
 (12245,1240417,N'Policeman',2,11),
@@ -62000,7 +62000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11971,17787,N'Ursula',1,10),
 (11971,11356,N'Margaret',1,11),
 (11596,5141,N'Herself / Nancy Thompson',1,0),
-(11596,5139,N'Freddy Krueger / Himself',2,1),
+(11596,5139,N'Freddy Krueger / Himself',2,1);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (11596,8186,N'Dylan Porter',2,2),
 (11596,5140,N'Himself',2,3),
 (11596,166594,N'Chase Porter',2,4),
@@ -63000,7 +63000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (13649,67601,N'Ryan Evans',2,3),
 (13649,67602,N'Chad Danforth',2,4),
 (13649,180279,N'Taylor McKessie',1,5),
-(13649,1329572,N'Boy At Pool',2,6),
+(13649,1329572,N'Boy At Pool',2,6);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (13649,94146,N'Jack Bolton',2,7),
 (13649,19262,N'Ms. Darbus',1,8),
 (13649,77196,N'Zeke Baylor',2,9),
@@ -64000,7 +64000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (16186,50266,N'Orlando',2,5),
 (16186,208316,N'Christina',0,7),
 (16186,1464838,N'Doctor',0,8),
-(16186,1470068,N'Brenda',0,9),
+(16186,1470068,N'Brenda',0,9);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (16186,39464,N'Debrah',1,10),
 (16186,18249,N'Myrtle',1,11),
 (16186,1062609,N'Reverend Carter',2,12),
@@ -65000,7 +65000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11577,31266,N'Mrs. Horrell',1,28),
 (11577,32786,N'Norris',2,29),
 (11577,24324,N'Denver',0,30),
-(11577,67064,N'Rupert',2,31),
+(11577,67064,N'Rupert',2,31);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (11577,3339,N'Cody',2,32),
 (11577,1013613,N'Beaver',2,33),
 (11577,6463,N'Josh',0,34),
@@ -66000,7 +66000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (11697,1421080,N'Townsman (uncredited)',0,26),
 (11697,1543059,N'Townsman (uncredited)',2,27),
 (11697,1469572,N'Townsman (uncredited)',2,28),
-(11697,1547818,N'Townsman (uncredited)',2,29),
+(11697,1547818,N'Townsman (uncredited)',2,29);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (11697,78894,N'Townsman (uncredited)',2,30),
 (11697,170562,N'Townsman (uncredited)',2,31),
 (11697,1317628,N'Townsman (uncredited)',2,32),
@@ -67000,7 +67000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (12207,84876,N'Henry',2,11),
 (12207,56804,N'Mr. Chiu',0,13),
 (12207,227804,N'Chiu''s Wife',1,14),
-(12207,1356189,N'Uncle Hing',0,15),
+(12207,1356189,N'Uncle Hing',0,15);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (20862,33527,N'',2,0),
 (20862,203677,N'',0,1),
 (20862,65529,N'',1,2),
@@ -68000,7 +68000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (28580,30240,N'Opera Cloak Room Attendant',2,9),
 (28580,89586,N'Charles St. James',2,10),
 (28580,12356,N'Hospital patient who sees imaginary beetles',0,11),
-(28580,220927,N'Alcoholic (uncredited)',2,13),
+(28580,220927,N'Alcoholic (uncredited)',2,13);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (28580,85990,N'Man from Albany (uncredited)',2,14),
 (28580,1143201,N'Pianist at Harry & Joe''s (uncredited)',0,15),
 (28580,130485,N'(uncredited)',0,16),
@@ -69000,7 +69000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (15800,2390,N'Himself',2,7),
 (15800,1748,N'Himself',2,8),
 (15800,1752,N'Himself',0,9),
-(15800,3033,N'Himself',2,10),
+(15800,3033,N'Himself',2,10);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (15800,1213786,N'Himself',2,11),
 (14278,82841,N'Himself',0,0),
 (14278,82842,N'Himself',0,1),
@@ -70000,7 +70000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (209112,87220,N'Wayne Security (uncredited)',2,137),
 (209112,204261,N'Russian Foreign Minister (uncredited)',0,138),
 (209112,1019098,N'DC Paramedic (uncredited)',0,139),
-(209112,1062375,N'Building Supervisor (uncredited)',2,140),
+(209112,1062375,N'Building Supervisor (uncredited)',2,140);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (209112,1031686,N'Chilean President (uncredited)',0,141),
 (209112,1574911,N'First Class Lady (uncredited)',0,142),
 (209112,1597947,N'Basketball Player (uncredited)',2,143),
@@ -71000,7 +71000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (127585,1738056,N'En Sabah Nur',0,30),
 (127585,1240748,N'Groundskeeper',2,31),
 (127585,64674,N'Pinstripe Mafioso',2,32),
-(127585,102852,N'Col. Sanders',2,33),
+(127585,102852,N'Col. Sanders',2,33);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (127585,1691154,N'Vietnam MP Guard',0,34),
 (127585,1519259,N'Mutant Soldier',2,35),
 (127585,96594,N'Quarantine Doctor',0,36),
@@ -72000,7 +72000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (64686,1278788,N'Hazama',0,8),
 (64686,1278789,N'Basho',0,9),
 (64686,550560,N'Horibe',2,10),
-(64686,1184036,N'Hara',0,11),
+(64686,1184036,N'Hara',0,11);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (64686,11398,N'Shogun Tsunayoshi',2,12),
 (64686,1380499,N'Shogun''s Adjutant',2,13),
 (64686,31387,N'Kapitan',0,14),
@@ -73000,7 +73000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (177677,24247,N'Senator',0,17),
 (177677,1502366,N'Senator',0,18),
 (177677,1192564,N'Senator',0,19),
-(177677,1529490,N'Janik''s Sentry',2,20),
+(177677,1529490,N'Janik''s Sentry',2,20);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (177677,1529494,N'Janik''s Sentry',0,21),
 (177677,934049,N'IMF Operator',2,22),
 (177677,1464090,N'Officer Assassin',2,23),
@@ -74000,7 +74000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (172385,82092,N'Pedro (voice)',2,14),
 (172385,41798,N'Rafael (voice)',2,15),
 (172385,1335646,N'Carla (voice)',1,16),
-(172385,1335647,N'Eva (voice)',0,17),
+(172385,1335647,N'Eva (voice)',0,17);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (172385,1178792,N'Old Bird (voice)',0,18),
 (172385,118752,N'Newscaster (voice)',1,19),
 (172385,1005852,N'Dr. Monae (voice)',1,20),
@@ -75000,7 +75000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (39254,1739812,N'Fair Goer (uncredited)',0,162),
 (39254,1739813,N'Cowgirl (uncredited)',1,163),
 (39254,1738242,N'Fight Fan (uncredited)',0,164),
-(39254,1739814,N'Fight Fan (uncredited)',0,165),
+(39254,1739814,N'Fight Fan (uncredited)',0,165);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (39254,1739815,N'Fight Fan (uncredited)',0,166),
 (39254,1739816,N'Pretty Girl (uncredited)',1,167),
 (39254,1292648,N'Zoo Fight Fan (uncredited)',0,168),
@@ -76000,7 +76000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (61791,1164341,N'Cornelia',0,22),
 (61791,14050,N'Alpha',2,23),
 (61791,103285,N'Party Girl #1',1,24),
-(61791,208678,N'Party Girl #2',1,25),
+(61791,208678,N'Party Girl #2',1,25);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (61791,198615,N'SFPD #2',2,26),
 (61791,1128861,N'Scared Girl in Stairway (uncredited)',1,27),
 (47964,62,N'John McClane',2,0),
@@ -77000,7 +77000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (77951,1372,N'Uncle Zack (voice)',2,2),
 (77951,1265629,N'Jade (voice)',1,3),
 (77951,5723,N'Alex (voice)',2,4),
-(77951,203048,N'Scowler (voice)',2,5),
+(77951,203048,N'Scowler (voice)',2,5);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (77951,109046,N'Juniper (voice)',1,6),
 (77951,190611,N'Radio Announcer (voice)',0,7),
 (77951,1274156,N'Dinosaur ID Card(voice)',0,8),
@@ -78000,7 +78000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (49021,380,N'Hunter',2,2),
 (49021,10862,N'Davies',2,3),
 (49021,63312,N'Anne',1,4),
-(49021,144081,N'Meier',2,5),
+(49021,144081,N'Meier',2,5);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (49021,77335,N'Martin',2,6),
 (49021,31164,N'Agent',2,7),
 (49021,267790,N'M16 Man',0,8),
@@ -79000,7 +79000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (273248,3129,N'Oswaldo Mobray',2,5),
 (273248,147,N'Joe Gage',2,6),
 (273248,6905,N'General Sandy Smithers',1,7),
-(273248,87312,N'O.B Jackson',0,8),
+(273248,87312,N'O.B Jackson',0,8);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (273248,1133063,N'Minnie',0,9),
 (273248,20494,N'Six-Horse Judy',1,10),
 (273248,47859,N'Ed',2,11),
@@ -80000,7 +80000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (116741,1502275,N'8 Year Old Nick (uncredited)',0,59),
 (116741,1502276,N'Model (uncredited)',0,60),
 (116741,1502277,N'Googler (uncredited)',0,61),
-(116741,1502278,N'Tiki bar patron (uncredited)',0,62),
+(116741,1502278,N'Tiki bar patron (uncredited)',0,62);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (116741,1502279,N'Google Leader (uncredited)',0,63),
 (116741,1502280,N'Link (uncredited)',0,64),
 (116741,1502281,N'Pizza Patron (uncredited)',2,65),
@@ -81000,7 +81000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (60308,191883,N'Reporter',1,66),
 (225574,3896,N'Bill Marks',2,0),
 (225574,1231,N'Jen Summers',1,1),
-(225574,59233,N'Tom Bowen',2,2),
+(225574,59233,N'Tom Bowen',2,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (225574,70904,N'Nancy',1,3),
 (225574,77277,N'Zack White',2,4),
 (225574,74541,N'Austin',2,5),
@@ -82000,7 +82000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (146233,1470,N'Captain Richard O''Malley',2,9),
 (146233,83854,N'Bob Taylor',2,10),
 (146233,41247,N'Father Patrick Dunn',2,11),
-(146233,427,N'Mrs. Milland',1,12),
+(146233,427,N'Mrs. Milland',1,12);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (146233,1224251,N'Anna Dover',0,13),
 (146233,1371108,N'Joy Birch',1,14),
 (146233,935722,N'Officer Carter',0,15),
@@ -83000,7 +83000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (100042,1383534,N'KEN Convention Employee',1,69),
 (100042,1383535,N'Inventor No. 2',0,70),
 (100042,1204292,N'Hospital Visitor',2,71),
-(100042,1383536,N'Hospital Visitor',1,72),
+(100042,1383536,N'Hospital Visitor',1,72);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (100042,1383537,N'Mental patient',0,73),
 (100042,1383538,N'KEN Con Scientist',0,74),
 (100042,1383539,N'Hospital Visitor',0,75),
@@ -84000,7 +84000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (312221,1746881,N'Referee #2 (Blue Horizon)',0,34),
 (312221,1746882,N'Referee #3 (Liverpool)',0,35),
 (312221,101615,N'Mickey''s Gym Doorman',2,36),
-(312221,1746883,N'Leo Trainer #2',0,37),
+(312221,1746883,N'Leo Trainer #2',0,37);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (312221,1664462,N'Ringside Doctor',2,38),
 (312221,1746884,N'Nurse Kathy',1,39),
 (312221,1746886,N'Young Dirt Bike Rider',0,40),
@@ -85000,7 +85000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (37498,26782,N'Bear',2,4),
 (37498,954000,N'Chip',0,5),
 (144336,1100,N'John ''Breacher'' Wharton',2,0),
-(144336,65731,N'James ''Monster'' Murray',2,1),
+(144336,65731,N'James ''Monster'' Murray',2,1);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (144336,175826,N'Lizzy Murray',1,2),
 (144336,20580,N'Joe ''Grinder'' Phillips',2,3),
 (144336,6195,N'Jackson',2,4),
@@ -86000,7 +86000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (82696,196181,N'Ann',1,14),
 (59436,887,N'Gil',2,0),
 (59436,53714,N'Inez',1,1),
-(59436,29685,N'John',2,2),
+(59436,29685,N'John',2,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (59436,91495,N'Helen',1,3),
 (59436,3968,N'Paul',2,4),
 (59436,971329,N'Carol',1,5),
@@ -87000,7 +87000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (254470,1542832,N'Treblemakers',0,57),
 (254470,1542833,N'Treblemakers',2,58),
 (254470,1542834,N'Das Sound Machine',0,59),
-(254470,582123,N'Das Sound Machine',0,60),
+(254470,582123,N'Das Sound Machine',0,60);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (254470,1542835,N'Das Sound Machine',0,61),
 (254470,1542836,N'Das Sound Machine',0,62),
 (254470,1542837,N'Das Sound Machine',0,63),
@@ -88000,7 +88000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (88042,1024312,N'Man in Crowd #1',2,17),
 (41630,524,N'Emma Kurtzman',1,0),
 (41630,18976,N'Adam Franklin',2,1),
-(41630,8945,N'Alvin Franklin',2,2),
+(41630,8945,N'Alvin Franklin',2,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (41630,2130,N'Dr. Stephen Metzner',2,3),
 (41630,45400,N'Patrice',1,4),
 (41630,25703,N'Lucy',1,5),
@@ -89000,7 +89000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (235260,1489914,N'Martha',0,30),
 (235260,1698794,N'Lazarus',0,31),
 (235260,62221,N'John the Baptist',0,32),
-(235260,1485959,N'Joseph of Arimathea',0,33),
+(235260,1485959,N'Joseph of Arimathea',0,33);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (235260,1698797,N'Simon of Cyrene',0,34),
 (146239,4937,N'David',2,0),
 (146239,71189,N'Emma',1,1),
@@ -90000,7 +90000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (48289,105235,N'Politicians Wife',1,8),
 (38303,40462,N'Marni',1,0),
 (38303,10205,N'Aunt Ramona',1,1),
-(38303,71727,N'Grandma Bunny',1,2),
+(38303,71727,N'Grandma Bunny',1,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (38303,52775,N'Georgia King',1,3),
 (38303,51992,N'Joanna',1,4),
 (38303,8944,N'Gail',1,5),
@@ -91000,7 +91000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (62630,1493722,N'School Girl 2',1,17),
 (62630,566331,N'Beauty',1,18),
 (244114,25246,N'Lui',2,0),
-(244114,83820,N'Tou',2,1),
+(244114,83820,N'Tou',2,1);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (244114,482101,N'Bing',0,2),
 (244114,96862,N'Cao Nam',0,3),
 (244114,78877,N'Paco',0,4),
@@ -92000,7 +92000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (114150,1107297,N'Lilly Onakuramara',1,9),
 (114150,9281,N'Gail Abernathy-McKadden',1,10),
 (114150,8265,N'John Smith',2,11),
-(114150,21179,N'Dr. Mitchell',2,12),
+(114150,21179,N'Dr. Mitchell',2,12);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (114150,54691,N'Tommy',2,13),
 (114150,234934,N'Luke',2,14),
 (114150,1107298,N'Jessica',1,15),
@@ -93000,7 +93000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (157849,1397642,N'Axelrod''s Driver',0,20),
 (157849,44516,N'Otto Keller',0,21),
 (157849,1397649,N'Lotta',0,22),
-(157849,24064,N'Frau Elli',0,23),
+(157849,24064,N'Frau Elli',0,23);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (157849,54948,N'Mitzi Brue',1,24),
 (157849,36406,N'Tattooed Man',0,25),
 (157849,1397653,N'Lonely Dancing Woman',0,26),
@@ -94000,7 +94000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (107811,183066,N'Julian',2,8),
 (107811,176048,N'Campus Cop #2',0,9),
 (107811,146516,N'Pledge Aguilar',1,10),
-(107811,523952,N'PJ Brill',2,11),
+(107811,523952,N'PJ Brill',2,11);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (107811,1002409,N'(voice)',1,12),
 (144340,56323,N'Portia Nathan',1,0),
 (144340,22226,N'John Pressman',2,1),
@@ -95000,7 +95000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (45317,554346,N'Court Officer',0,26),
 (45317,118645,N'Fight Spectator',0,27),
 (45317,6942,N'Micky''s Friend',0,28),
-(45317,202930,N'Neary',2,29),
+(45317,202930,N'Neary',2,29);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (45317,474050,N'Mike ''Machine Gun'' Mungin',0,30),
 (45317,1332017,N'Drunk Guy',2,31),
 (45317,1269034,N'Drunk Girl',0,32),
@@ -96000,7 +96000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (253331,1810482,N'Dondi',0,17),
 (253331,1810484,N'Rosita',0,18),
 (253331,1810485,N'Uncle Victor',2,19),
-(253331,1288834,N'Therapist',2,20),
+(253331,1288834,N'Therapist',2,20);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (253331,1458990,N'Neighbor (Ted)',2,21),
 (253331,1780225,N'Vocalist',1,22),
 (253331,1810495,N'Bailiff',0,23),
@@ -97000,7 +97000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (225565,60120,N'Ellie''s Mom',1,14),
 (225565,158230,N'Ellie''s Dad',2,15),
 (225565,60205,N'Chelsea''s Dad',2,16),
-(225565,12932,N'Chelsea''s Mom',1,17),
+(225565,12932,N'Chelsea''s Mom',1,17);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (225565,1152008,N'Preppy Guy',0,18),
 (225565,1333845,N'Girl at the Bar (uncredited)',1,19),
 (385736,932967,N'Marlon',2,0),
@@ -98000,7 +98000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (325373,1880017,N'Muslim Airline Agent',0,17),
 (325373,1880018,N'Airport worker',0,18),
 (325373,1880021,N'Lucy''s taxi client',0,19),
-(334527,221018,N'Noah',2,1),
+(334527,221018,N'Noah',2,1);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (334527,8891,N'Eddie',2,2),
 (334527,10692,N'Zach',2,3),
 (334527,17183,N'Gerry',2,4),
@@ -99000,7 +99000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (284293,1232484,N'Primary Care Doctor',0,12),
 (284293,151435,N'Convention Facilitator',1,13),
 (284293,1465496,N'Masha (Three Sisters)',0,14),
-(284293,1391352,N'Pinkberry Worker',0,15),
+(284293,1391352,N'Pinkberry Worker',0,15);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (284293,1391351,N'Alice Howland''s Mother',0,16),
 (284293,118388,N'Prof. Hooper',1,17),
 (122081,17051,N'Alien',2,0),
@@ -100000,7 +100000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (48572,1580574,N'Believer',2,36),
 (48572,46772,N'ATF Sniper',2,37),
 (89708,1163023,N'',0,0),
-(89708,1163024,N'',0,1),
+(89708,1163024,N'',0,1);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (89708,1163025,N'',0,2),
 (89708,1163026,N'',0,3),
 (64678,1281,N'George Zinavoy',2,0),
@@ -101000,7 +101000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (38033,65827,N'Det. Jim Crenshaw',2,1),
 (38033,1370,N'Mr. Smirker',2,2),
 (38033,22434,N'Sergeant Hamill',1,3),
-(38033,78342,N'Rachael Conners',1,4),
+(38033,78342,N'Rachael Conners',1,4);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (38033,48312,N'Dante',2,5),
 (38033,119421,N'Johnny Jones',2,6),
 (38033,39126,N'Jai Pham',1,7),
@@ -102000,7 +102000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (331190,1203743,N'Officer Henderson',0,15),
 (331190,1104414,N'Lynn Campbell',1,16),
 (331190,1511922,N'Paige',0,17),
-(331190,1511923,N'APD Officer',0,18),
+(331190,1511923,N'APD Officer',0,18);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (331190,168688,N'Cameron Sampson',0,19),
 (331190,1511924,N'SWAT Sniper',0,20),
 (331190,1370999,N'Detective',0,21),
@@ -103000,7 +103000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (46415,1148403,N'Karen',0,12),
 (46415,1288818,N'Trish',0,13),
 (46415,86268,N'Amanda',1,14),
-(38570,78320,N'Andy',2,0),
+(38570,78320,N'Andy',2,0);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (38570,66524,N'Kim',1,1),
 (38570,83352,N'Sarah',1,2),
 (38570,120720,N'Seth',0,3),
@@ -104000,7 +104000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (63287,193870,N'Dolly',1,7),
 (63287,58563,N'Stymie',2,8),
 (63287,59581,N'Clyde Senior',2,9),
-(63287,114372,N'Darla',1,10),
+(63287,114372,N'Darla',1,10);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (63287,61011,N'Maurice',0,11),
 (335874,10767,N'',1,1),
 (335874,3266,N'',2,2),
@@ -105000,7 +105000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (371690,1697887,N'Dr. Mitchell Scott',0,10),
 (52032,290,N'J.R. Ackerley (voice)',2,0),
 (52032,29791,N'Nancy / Greengrocer''s Wife (voice)',1,1),
-(52032,6588,N'Ms. Canvenini (voice)',1,2),
+(52032,6588,N'Ms. Canvenini (voice)',1,2);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (52032,1986,N'Mr. Plum / Pugilist (voice)',2,3),
 (52032,56618,N'Captain Pugh / Mr. Blandish (voice)',1,4),
 (52032,170953,N'Army Veterinarian (voice)',2,5),
@@ -106000,7 +106000,7 @@ INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_i
 (158895,1204826,N'Angela Helms',0,6),
 (158895,1204819,N'Supervisor',0,7),
 (158895,155352,N'Cheryl',0,14),
-(158895,1204830,N'Lacy',0,16),
+(158895,1204830,N'Lacy',0,16);INSERT INTO pelicula_elenco (pelicula_id, persona_id, personaje_nombre, genero_id, elenco_orden) VALUES
 (158895,951586,N'Max',2,19),
 (158895,1031145,N'Jeff',0,24),
 (222250,74618,N'Deanna',1,0),

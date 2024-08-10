@@ -1000,7 +1000,7 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (2011,214),
 (2013,161),
 (2013,214),
-(2018,214),
+(2018,214);INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (2022,214),
 (2023,214),
 (2023,187),
@@ -2000,7 +2000,7 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (9495,214),
 (9502,214),
 (9504,214),
-(9509,162),
+(9509,162);INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (9509,214),
 (9513,162),
 (9513,214),
@@ -3000,7 +3000,7 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (11934,214),
 (11935,162),
 (11935,214),
-(11954,162),
+(11954,162);INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (11956,161),
 (11959,214),
 (11967,214),
@@ -4000,7 +4000,7 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (24206,142),
 (24206,162),
 (24226,214),
-(24227,214),
+(24227,214);INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (24266,133),
 (24356,214),
 (24356,162),
@@ -5000,7 +5000,7 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (62630,136),
 (62677,214),
 (62728,162),
-(62764,214),
+(62764,214);INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (62835,161),
 (62837,214),
 (62838,214),
@@ -6000,7 +6000,7 @@ INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (251321,214),
 (251321,158),
 (251471,214),
-(251471,152),
+(251471,152);INSERT INTO pelicula_pais (pelicula_id, pais_id) VALUES
 (251979,215),
 (252360,137),
 (252360,142),

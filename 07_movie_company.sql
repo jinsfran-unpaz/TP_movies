@@ -1000,7 +1000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (745,17032),
 (745,862),
 (745,915),
-(746,469),
+(746,469);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (746,470),
 (746,472),
 (746,473),
@@ -2000,7 +2000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (1969,6586),
 (1969,6896),
 (1969,828),
-(1970,4154),
+(1970,4154);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (1970,4710),
 (1970,768),
 (1970,829),
@@ -3000,7 +3000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (5551,171),
 (5551,1757),
 (5551,6194),
-(5551,76068),
+(5551,76068);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (5551,79),
 (5559,1903),
 (5559,520),
@@ -4000,7 +4000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (9075,21972),
 (9075,2254),
 (9075,23192),
-(9075,23238),
+(9075,23238);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (9075,234),
 (9075,25487),
 (9075,25488),
@@ -5000,7 +5000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (10132,8814),
 (10133,14),
 (10133,185),
-(10135,1885),
+(10135,1885);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (10135,206),
 (10135,60),
 (10136,4),
@@ -6000,7 +6000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (11439,265),
 (11439,355),
 (11442,7405),
-(11451,2),
+(11451,2);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (11451,3929),
 (11452,2188),
 (11452,870),
@@ -7000,7 +7000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (14165,1569),
 (14175,614),
 (14175,8992),
-(14177,8411),
+(14177,8411);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (14181,12),
 (14191,711),
 (14191,7747),
@@ -8000,7 +8000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (21338,3603),
 (21345,14714),
 (21345,26240),
-(21345,26241),
+(21345,26241);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (21345,26242),
 (21345,5552),
 (21349,306),
@@ -9000,7 +9000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (37498,21849),
 (37498,3618),
 (37498,559),
-(37686,11461),
+(37686,11461);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (37686,23300),
 (37686,4),
 (37686,56),
@@ -10000,7 +10000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (51588,2),
 (51588,2201),
 (51828,2335),
-(51828,5420),
+(51828,5420);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (51942,41680),
 (51995,6667),
 (52010,79522),
@@ -11000,7 +11000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (81796,5358),
 (81796,6896),
 (81836,12010),
-(81836,12966),
+(81836,12966);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (81836,1824),
 (81836,6246),
 (82505,5855),
@@ -12000,7 +12000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (167073,16486),
 (167073,5267),
 (167073,7177),
-(168027,3120),
+(168027,3120);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (168027,52324),
 (168259,33),
 (168259,333),
@@ -13000,7 +13000,7 @@ INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (270303,8714),
 (270487,10163),
 (270487,2092),
-(270487,33),
+(270487,33);INSERT INTO pelicula_productora (pelicula_id, productora_id) VALUES
 (270554,27271),
 (270938,39075),
 (270946,521),

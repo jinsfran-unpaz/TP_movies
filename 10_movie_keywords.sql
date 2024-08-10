@@ -1000,7 +1000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (165,830),
 (165,951),
 (165,952),
-(165,956),
+(165,956);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (165,1436),
 (165,4379),
 (165,9663),
@@ -2000,7 +2000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (345,459),
 (345,460),
 (345,826),
-(345,1441),
+(345,1441);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (345,1664),
 (345,1817),
 (345,2404),
@@ -3000,7 +3000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (557,169887),
 (557,189094),
 (558,851),
-(558,2038),
+(558,2038);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (558,5983),
 (558,8828),
 (558,9663),
@@ -4000,7 +4000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (668,11134),
 (668,15127),
 (668,156095),
-(668,159558),
+(668,159558);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (668,160175),
 (668,179430),
 (670,3364),
@@ -5000,7 +5000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (802,459),
 (802,612),
 (802,894),
-(802,936),
+(802,936);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (802,1415),
 (802,1486),
 (802,1599),
@@ -6000,7 +6000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (979,33783),
 (979,156075),
 (979,156478),
-(979,184352),
+(979,184352);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (979,203258),
 (979,224663),
 (985,1009),
@@ -7000,7 +7000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (1571,33553),
 (1571,165340),
 (1571,218122),
-(1571,219404),
+(1571,219404);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (1571,226846),
 (1572,258),
 (1572,444),
@@ -8000,7 +8000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (1904,4342),
 (1907,458),
 (1907,911),
-(1907,966),
+(1907,966);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (1907,1969),
 (1907,2323),
 (1907,2988),
@@ -9000,7 +9000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (2320,14601),
 (2320,14819),
 (2320,18420),
-(2320,161998),
+(2320,161998);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (2320,185266),
 (2320,185692),
 (2320,187844),
@@ -10000,7 +10000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (3638,3914),
 (3638,164657),
 (3682,242),
-(3682,572),
+(3682,572);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (3682,2334),
 (3682,10594),
 (3682,14964),
@@ -11000,7 +11000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (5689,11823),
 (5689,13130),
 (5689,155746),
-(5689,157524),
+(5689,157524);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (5689,179578),
 (5708,968),
 (5708,1279),
@@ -12000,7 +12000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (7973,6319),
 (7973,7951),
 (7973,13027),
-(7973,15090),
+(7973,15090);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (7973,161288),
 (7973,187056),
 (7978,494),
@@ -13000,7 +13000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (8835,171165),
 (8835,171169),
 (8835,171176),
-(8836,1603),
+(8836,1603);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (8836,1812),
 (8836,9951),
 (8836,18525),
@@ -14000,7 +14000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (9297,10364),
 (9297,208349),
 (9302,416),
-(9302,2136),
+(9302,2136);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (9302,3658),
 (9302,8476),
 (9302,12193),
@@ -15000,7 +15000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (9593,48711),
 (9593,160612),
 (9593,161849),
-(9593,161868),
+(9593,161868);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (9594,2143),
 (9594,3436),
 (9594,6211),
@@ -16000,7 +16000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (9870,2864),
 (9870,3258),
 (9877,3616),
-(9877,9826),
+(9877,9826);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (9877,9955),
 (9877,12339),
 (9877,15127),
@@ -17000,7 +17000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (10197,165764),
 (10197,165765),
 (10197,179431),
-(10197,208992),
+(10197,208992);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (10198,818),
 (10198,3392),
 (10198,5091),
@@ -18000,7 +18000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (10571,4663),
 (10571,5490),
 (10571,5785),
-(10571,6054),
+(10571,6054);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (10571,6170),
 (10571,6707),
 (10571,12105),
@@ -19000,7 +19000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (11013,236),
 (11013,1443),
 (11013,2699),
-(11013,6373),
+(11013,6373);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (11013,10909),
 (11013,11612),
 (11013,11677),
@@ -20000,7 +20000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (11470,1826),
 (11470,2964),
 (11470,3385),
-(11470,9882),
+(11470,9882);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (11470,10089),
 (11470,14676),
 (11470,14760),
@@ -21000,7 +21000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (12107,160450),
 (12107,179431),
 (12107,191881),
-(12109,635),
+(12109,635);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (12109,1465),
 (12109,2150),
 (12109,4610),
@@ -22000,7 +22000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (13448,5960),
 (13448,8056),
 (13448,9675),
-(13448,9676),
+(13448,9676);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (13448,10410),
 (13448,14780),
 (13448,161207),
@@ -23000,7 +23000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (15037,1013),
 (15037,2135),
 (15037,2920),
-(15037,3452),
+(15037,3452);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (15037,3616),
 (15037,3687),
 (15037,4044),
@@ -24000,7 +24000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (18191,242),
 (18191,366),
 (18191,549),
-(18191,572),
+(18191,572);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (18191,663),
 (18191,1449),
 (18191,9826),
@@ -25000,7 +25000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (22894,12332),
 (22894,15001),
 (22894,18034),
-(22894,233004),
+(22894,233004);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (22897,3687),
 (22897,5982),
 (22897,187056),
@@ -26000,7 +26000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (27581,167538),
 (27581,167541),
 (27581,167542),
-(27581,179430),
+(27581,179430);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (27581,179431),
 (27582,351),
 (27582,520),
@@ -27000,7 +27000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (36955,167467),
 (36955,217421),
 (36970,270),
-(36970,658),
+(36970,658);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (36970,1357),
 (36970,4676),
 (36970,179431),
@@ -28000,7 +28000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (44147,13142),
 (44147,14536),
 (44147,14893),
-(44147,18420),
+(44147,18420);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (44214,246),
 (44214,271),
 (44214,572),
@@ -29000,7 +29000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (50321,14909),
 (50321,15101),
 (50321,179431),
-(50348,934),
+(50348,934);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (50348,5638),
 (50348,8881),
 (50348,11168),
@@ -30000,7 +30000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (63020,208396),
 (63287,570),
 (63287,726),
-(63287,10183),
+(63287,10183);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (63492,818),
 (63492,3090),
 (63492,4620),
@@ -31000,7 +31000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (76757,212760),
 (76758,173251),
 (76758,173254),
-(76996,10183),
+(76996,10183);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (76996,187056),
 (77016,12670),
 (77016,188112),
@@ -32000,7 +32000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (98568,44451),
 (98568,191004),
 (98568,208757),
-(99826,9716),
+(99826,9716);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (99861,8828),
 (99861,9663),
 (99861,9715),
@@ -33000,7 +33000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (152601,6104),
 (152601,9673),
 (152601,9957),
-(152601,12375),
+(152601,12375);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (152601,34265),
 (152601,40847),
 (152601,223540),
@@ -34000,7 +34000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (224141,10541),
 (224141,158375),
 (224141,166472),
-(224141,179431),
+(224141,179431);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (224141,192993),
 (224569,4276),
 (224569,7851),
@@ -35000,7 +35000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (273481,160194),
 (273481,164881),
 (273481,189102),
-(273481,191209),
+(273481,191209);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (273481,198423),
 (273481,208397),
 (273481,217064),
@@ -36000,7 +36000,7 @@ INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (340611,2494),
 (340611,208611),
 (340816,1003),
-(340816,3262),
+(340816,3262);INSERT INTO pelicula_palabra_claves (pelicula_id, palabra_clave_id) VALUES
 (340816,3537),
 (340816,13005),
 (340816,13063),

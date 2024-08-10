@@ -1000,7 +1000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (2401,'grandmother grandson relationship'),
 (2404,'masked ball'),
 (2405,'roof'),
-(2406,'picnic'),
+(2406,'picnic');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (2407,'fireworks'),
 (2408,'cu00f4te d''azur'),
 (2409,'church choir'),
@@ -2000,7 +2000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (4507,'clowning'),
 (4508,'principal witness '),
 (4511,'field'),
-(4513,'blind date'),
+(4513,'blind date');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (4514,'bomb alarm'),
 (4516,'romantic rivalry'),
 (4518,'postwar period'),
@@ -3000,7 +3000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (7996,'blackjack'),
 (8001,'live-reportage'),
 (8009,'marching band'),
-(8011,'greek'),
+(8011,'greek');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (8012,'physicist'),
 (8015,'cop'),
 (8018,'adoptive mother'),
@@ -4000,7 +4000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (11935,'working class'),
 (11937,'conservative'),
 (11953,'loft'),
-(11960,'naked scene'),
+(11960,'naked scene');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (11999,'fox news'),
 (12011,'hijinks'),
 (12026,'alternate history'),
@@ -5000,7 +5000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (41381,'rapist'),
 (41383,'triad'),
 (41385,'racial tension'),
-(41390,'mustache'),
+(41390,'mustache');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (41393,'new england'),
 (41401,'winning'),
 (41406,'middle ages'),
@@ -6000,7 +6000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (161231,'hideout'),
 (161236,'golf war'),
 (161240,'sole survivor'),
-(161244,'iwo jima'),
+(161244,'iwo jima');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (161246,'pacific theater'),
 (161247,'drill instructor'),
 (161248,'individuality'),
@@ -7000,7 +7000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (171192,'pug'),
 (171197,'bon bon'),
 (171198,'fraternity pledge'),
-(171199,'greek letter'),
+(171199,'greek letter');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (171235,'pot head'),
 (171236,'smoke ring'),
 (171238,'pill bottle'),
@@ -8000,7 +8000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (186903,'poor eyesight'),
 (186906,'boston red sox'),
 (186908,'draft'),
-(186939,'pharaoh'),
+(186939,'pharaoh');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (186946,'the saint'),
 (186948,'book comes to life'),
 (186951,'girl disguised as boy'),
@@ -9000,7 +9000,7 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (209788,'girl scouts'),
 (209789,'day of the dead'),
 (209790,'bullfighting'),
-(209799,'whistleblower'),
+(209799,'whistleblower');INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (209817,'political thriller'),
 (209818,'asgard'),
 (209822,'iron patriot'),
@@ -9796,4 +9796,4 @@ INSERT INTO palabra_clave (palabra_clave_id, palabra_clave_nombre) VALUES
 (238206,'society ball'),
 (238222,'year 2002');
 
-COMMIT;
+GO

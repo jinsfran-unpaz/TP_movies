@@ -1000,7 +1000,7 @@ INSERT INTO productora (productora_id, productora_nombre) VALUES
 (2813,N'Forensic Films'),
 (2814,N'Great Scott Productions Pty. Ltd.'),
 (2822,N'SNL Studios'),
-(2830,N'Rival Pictures'),
+(2830,N'Rival Pictures');INSERT INTO productora (productora_id, productora_nombre) VALUES
 (2831,N'InVenture Entertainment'),
 (2832,N'Cineville'),
 (2833,N'Independent Pictures (II)'),
@@ -2000,7 +2000,7 @@ INSERT INTO productora (productora_id, productora_nombre) VALUES
 (8848,N'MHF Zweite Academy Film'),
 (8849,N'Intermittent Productions'),
 (8850,N'Extension 765'),
-(8851,N'Shawn Danielle Productions Ltd.'),
+(8851,N'Shawn Danielle Productions Ltd.');INSERT INTO productora (productora_id, productora_nombre) VALUES
 (8852,N'Virgin Produced'),
 (8853,N'Rogue'),
 (8856,N'Intermedia'),
@@ -3000,7 +3000,7 @@ INSERT INTO productora (productora_id, productora_nombre) VALUES
 (18919,N'Follow Through Productions'),
 (18920,N'Salamander Pictures'),
 (18921,N'Pam Williams Productions'),
-(18922,N'Windy Hill Pictures'),
+(18922,N'Windy Hill Pictures');INSERT INTO productora (productora_id, productora_nombre) VALUES
 (18988,N'Story Bridge Films'),
 (18990,N'Radiant Productions'),
 (19029,N'Cinecorp'),
@@ -4000,7 +4000,7 @@ INSERT INTO productora (productora_id, productora_nombre) VALUES
 (38663,N'IJL Creations'),
 (38735,N'Starr'),
 (38736,N'Arena'),
-(38771,N'Jeff Skoll Productions'),
+(38771,N'Jeff Skoll Productions');INSERT INTO productora (productora_id, productora_nombre) VALUES
 (38799,N'Def Pictures'),
 (38833,N'Ian Bryce Productions'),
 (38944,N'Clavius Base'),
@@ -5000,7 +5000,7 @@ INSERT INTO productora (productora_id, productora_nombre) VALUES
 (89628,N'Maroon Entertainment'),
 (89629,N'Say It Isn''t So Productions'),
 (89630,N'Forrest Films'),
-(89632,N'S E Productions Inc.'),
+(89632,N'S E Productions Inc.');INSERT INTO productora (productora_id, productora_nombre) VALUES
 (89633,N'All Lit Up Productions'),
 (89635,N'High Sierra Carpeting'),
 (89636,N'Creando Films'),

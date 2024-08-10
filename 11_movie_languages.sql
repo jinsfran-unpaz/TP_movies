@@ -1000,7 +1000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (8046,24574,2),
 (8051,24574,2),
 (8053,24574,2),
-(8054,24574,2),
+(8054,24574,2);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (8055,24574,2),
 (8060,24574,2),
 (8065,24574,2),
@@ -2000,7 +2000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (11978,24574,2),
 (11979,24574,2),
 (11980,24574,2),
-(11983,24574,2),
+(11983,24574,2);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (12079,24574,2),
 (12085,24574,2),
 (12088,24574,2),
@@ -3000,7 +3000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (36419,24574,2),
 (36549,24574,2),
 (36557,24574,2),
-(36586,24574,2),
+(36586,24574,2);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (36593,24574,2),
 (36597,24574,2),
 (36643,24574,2),
@@ -4000,7 +4000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (181330,24574,2),
 (181533,24574,2),
 (181940,24574,2),
-(182873,24574,2),
+(182873,24574,2);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (183894,24574,2),
 (184098,24574,2),
 (184315,24574,2),
@@ -5000,7 +5000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (7973,24579,2),
 (8054,24579,2),
 (8195,24579,2),
-(8198,24579,2),
+(8198,24579,2);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (8247,24579,2),
 (8265,24579,2),
 (8285,24579,2),
@@ -6000,7 +6000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (5072,24588,2),
 (5925,24588,2),
 (6538,24588,2),
-(6623,24588,2),
+(6623,24588,2);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (6687,24588,2),
 (7191,24588,2),
 (7304,24588,2),
@@ -7000,7 +7000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (14161,24574,1),
 (17979,24574,1),
 (76757,24574,1),
-(258489,24574,1),
+(258489,24574,1);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (411,24574,1),
 (246655,24574,1),
 (155,24574,1),
@@ -8000,7 +8000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (232672,24574,1),
 (17379,24574,1),
 (8987,24574,1),
-(11359,24574,1),
+(11359,24574,1);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (82525,24574,1),
 (9759,24574,1),
 (9486,24574,1),
@@ -9000,7 +9000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (376659,24574,1),
 (10073,24574,1),
 (16690,24574,1),
-(273895,24574,1),
+(273895,24574,1);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (14873,24574,1),
 (8968,24574,1),
 (9963,24574,1),
@@ -10000,7 +10000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (14057,24574,1),
 (12621,24574,1),
 (1808,24574,1),
-(67675,24574,1),
+(67675,24574,1);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (29514,24574,1),
 (12454,24574,1),
 (39806,24574,1),
@@ -11000,7 +11000,7 @@ INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (43884,24574,1),
 (107315,24574,1),
 (137955,24574,1),
-(13064,24574,1),
+(13064,24574,1);INSERT INTO pelicula_idiomas (pelicula_id, idioma_id, idioma_rol_id) VALUES
 (59917,24574,1),
 (157422,24574,1),
 (310933,24574,1),
