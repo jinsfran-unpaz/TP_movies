@@ -142,7 +142,7 @@ DROP TABLE valores_esperados,valores_encontrados;
 
 SELECT 'UUID' AS Resumen, CAST([service_broker_guid] AS varchar(50)) AS 'Resultado'
 FROM   sys.databases
-WHERE [name] = N'master'
+WHERE [name] = N'msdb'
 UNION ALL
 SELECT 'Server Name', @@SERVERNAME
 UNION ALL
